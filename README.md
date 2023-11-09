@@ -75,15 +75,15 @@ My goal is to broaden my understanding and skill set in engineering and technolo
 
 ***Project 1: Advanced Robotics Automation and Optimization.***
 
-- Proficient in Dobot Robot Cobot Operation, including Conveyor Belt integration in ROS using Python.
+- **Proficient in Dobot Robot Cobot Operation**, including Conveyor Belt integration in ROS using Python.
 - Successful execution of complex tasks involving forward and inverse kinematics in robotics
 - Improved operational efficiency through real–time color recognition for object identification
-- Implemented YOLO object detection techniques for palletizing processes and object orientation control
-- Expertise in using gripper and vacuum systems for pick and place operations in robotics
+- Implemented **YOLO object detection techniques** for palletizing processes and object orientation control
+- Expertise in using **gripper and vacuum systems** for pick and place operations in robotics
 - Meticulous documentation to maintain accurate project records
 
   
-I possess extensive expertise in robotics, ROS, Python programming, and advanced algorithms, making me an asset in the field of robotics and automation, with the potential for significant contributions to academic pursuits and future career opportunities.
+**I possess extensive expertise in robotics, ROS, Python programming, and advanced algorithms, making me an asset in the field of robotics and automation**, with the potential for significant contributions to academic pursuits and future career opportunities.
 
 **Graduate Service Assistant – Laboratory Assistant and Project Lead @ Ira A. Fulton Schools of Engineering at Arizona State University  (_August 2023_ - present)**
 
@@ -107,7 +107,7 @@ I possess extensive expertise in robotics, ROS, Python programming, and advanced
 - Simulator Flexibility : Utilized Gazebo and URSim/RoboDK simulators as needed for project execution. Designed mounts for polyscope (teach pendant), tower light, and palletizer using SolidWorks. Maintained comprehensive documentation throughout the project.
 
 
-In summary, this experience highlights proficiency in robotics and control systems, solidifying expertise in this dynamic field
+In summary, this experience highlights **proficiency in robotics and control systems, solidifying expertise in this dynamic field**
 
 
 **Graduate Service Assistant – Laboratory Assistant and Project Lead @ Ira A. Fulton Schools of Engineering at Arizona State University (_August 2023_ - present)**
@@ -126,14 +126,14 @@ In summary, this experience highlights proficiency in robotics and control syste
 ***Project 1: Autonomous Robotic Manipulation &amp; Object Detection.***
 
 
-- Universal Robot Cobot Programming: Proficiently programmed the Universal Robot cobots (UR3e/UR5e) to autonomously handle and palletize dice based on specified parameters.
-- Advanced Vision Color Sensor Integration: Successfully integrated cutting–edge vision color sensors (iVu series by Banner Engineering) into cobot platforms, enabling precise object detection and pattern recognition.
-- Electric Conveyor Belt System Engineering: Engineered a customized electric conveyor belt system with seamless Bosch electric gear motor integration, optimizing workflow through responsive object detection. Personally, undertook the entire wiring system from inception.
-- SolidWorks Design Expertise: Utilized SolidWorks to design mounts for the conveyor belt, teach pendant mount, tower light, and palletizer, ensuring seamless implementation.
-- Meticulous Documentation: Maintained meticulous documentation practices to ensure accurate records encompassing all project activities, specifications, and outcomes
+- **Universal Robot Cobot Programming:** **Proficiently** programmed the Universal Robot cobots (UR3e/UR5e) to autonomously handle and palletize dice based on specified parameters.
+- **Advanced Vision Color Sensor Integration:** Successfully integrated cutting–edge vision color sensors (iVu series by Banner Engineering) into cobot platforms, enabling precise object detection and pattern recognition.
+- **Electric Conveyor Belt System Engineering:** Engineered a customized electric conveyor belt system with seamless Bosch electric gear motor integration, optimizing workflow through responsive object detection. Personally, undertook the entire wiring system from inception.
+- **SolidWorks Design Expertise:** Utilized SolidWorks to design mounts for the conveyor belt, teach pendant mount, tower light, and palletizer, ensuring seamless implementation.
+- **Meticulous Documentation:** Maintained meticulous documentation practices to ensure accurate records encompassing all project activities, specifications, and outcomes
 
 
-These achievements underscore my leadership, technical acumen, and problem–solving capabilities in the realm of mechatronic systems, further enhancing my qualifications and opportunities in this field
+**These achievements underscore my leadership, technical acumen, and problem–solving capabilities in the realm of mechatronic systems, further enhancing my qualifications and opportunities in this field**
   
 **Product Engineer @ Xdroid Prototyping Technologies LLP, Bangalore, Karnataka, India (_January 2019_ - _July 2022_)**
 
@@ -150,10 +150,11 @@ These achievements underscore my leadership, technical acumen, and problem–sol
 
 ***Key Achievements***
 
-- Evaluated and refined finalized projects, ensuring optimal functionality, and implementing adjustments to enhance production processes, thereby ensuring the highest standard of product excellence, resulting in a 20% increase in production efficiency
-- Spearheaded innovation initiatives, introducing groundbreaking products and features that elevated customer satisfaction, reduced costs, and positioned our product line as an industry leader, contributing to a 15% increase in customer satisfaction and a 10% reduction in production expenditures
-- Conceptualized and engineered a cutting–edge dual–nozzle 3D printer, fabricating life–sized machine prototypes through pioneering 3D printing technology, resulting in a 25% improvement in prototype fabrication time
-- Engineered a 3D printed model specifically designed to aid knee replacement surgery, revolutionizing patient care and rehabilitation practices. • Utilized reverse engineering and advanced 3D scanning methodologies to create precise CAD models for efficient 3D printing, expediting part development
+- **Evaluated and refined finalized projects**, ensuring optimal functionality, and implementing adjustments to enhance production processes, thereby ensuring the highest standard of product excellence, resulting in a 20% increase in production efficiency
+- Spearheaded innovation initiatives, **introducing groundbreaking products and features** that elevated **customer satisfaction, reduced costs, and positioned our product line as an industry leader**, contributing to a **15% increase in customer satisfaction and a 10% reduction in production expenditures**
+- Conceptualized and engineered a **cutting–edge dual–nozzle 3D printer, fabricating life–sized machine prototypes through pioneering 3D printing technology, resulting in a 25% improvement in prototype fabrication time**
+- Engineered a 3D printed model specifically designed to aid knee replacement surgery, revolutionizing patient care and rehabilitation practices.
+- Utilized reverse engineering and advanced 3D scanning methodologies to create precise CAD models for efficient 3D printing, expediting part development
 - Orchestrated the development of a THCS model equipped with LED illumination and an interactive touch interface for real–time fluid flow system monitoring, employing Raspberry Pi and Arduino Uno programming in Python
 - Cultivated a culture of continuous improvement within the engineering team, establishing clear product design standards, streamlining manufacturing through comprehensive documentation, and accelerating project timelines
 - Maintained meticulous documentation practices, ensuring accurate records encompassing all project activities, specifications, and outcomes
@@ -161,9 +162,9 @@ These achievements underscore my leadership, technical acumen, and problem–sol
 ***Imapct***
 
 
-In my role at Xdroid Prototyping Technologies LLP, I gained a diverse skill set that encompasses various facets of engineering and project management. Primarily focused on research and development, my expertise expanded in manufacturing engineering, design for manufacturing, and rapid prototyping. I excelled in hardware engineering and was adept at reverse engineering, employing modeling and simulation techniques to optimize processes.
+In my role at Xdroid Prototyping Technologies LLP, I gained a diverse skill set that encompasses various facets of engineering and project management. Primarily focused on research and development, **my expertise expanded in manufacturing engineering, design for manufacturing, and rapid prototyping.** I excelled in **hardware engineering and was adept at reverse engineering, employing modeling and simulation techniques** to optimize processes.
 
-Throughout my tenure, I honed my skills in industrial design, geometric dimensioning and tolerancing, and troubleshooting, leveraging analytical abilities to resolve complex issues. Effective communication and a strong aptitude for teamwork were integral to my success, fostering an environment of continuous improvement and enabling efficient problem–solving
+Throughout my tenure, I honed my skills in **industrial design**, **geometric dimensioning** and **tolerancing**, and **troubleshooting**, leveraging analytical abilities to resolve complex issues. Effective communication and a strong aptitude for teamwork were integral to my success, fostering an environment of continuous improvement and enabling efficient problem–solving
 
 I specialized in prototyping and excelled in both technical and commercial documentation. Additionally, my proficiency in programming languages such as Python and C significantly contributed to enhancing productivity and automating processes. Proficiency in software like Ultimaker Cura and Autodesk Inventor streamlined our design and manufacturing workflows, ensuring precision and quality in our projects
 
@@ -175,8 +176,8 @@ I specialized in prototyping and excelled in both technical and commercial docum
 
 ***Projects***
 
-- Transformation of Eicher 10.90 Truck
-- Development of an Electric Buggy (6–seater).
+- **Transformation of Eicher 10.90 Truck**
+- **Development of an Electric Buggy (6–seater)**
 
 
 ***Key Achievements***
@@ -220,7 +221,7 @@ Overall, this role was a dynamic learning ground, where I acquired and applied a
 
 ***Project:***
 
-- Orchestrated the development of a (25MLD) Sewage Treatment Plant in Borehalli Village (Bidadi), Ramanagara District
+- **Orchestrated the development of a (25MLD) Sewage Treatment Plant in Borehalli Village (Bidadi), Ramanagara District**
 
 
 ***Key Achievements***
