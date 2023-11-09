@@ -28,14 +28,9 @@ My goal is to broaden my understanding and skill set in engineering and technolo
 
 ## Technical Skills
 ### Programming Languages Known
+
 <p float="left">
-  <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker%20-%23092E20.svg?&style=for-the-badge&logo=docker&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/linux%20-%23092E20.svg?&style=for-the-badge&logo=linux&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/MATLAB%20-%2300599C.svg?&style=for-the-badge&logo=MATLAB&logoColor=white"/>
-    
+  C, C++, Docker, Embedded C, Matlab & Simulink, Python, Unix (Linux). 
 </p>
 
 ### Engineering Design and Manufacturing
