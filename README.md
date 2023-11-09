@@ -64,11 +64,17 @@ My goal is to broaden my understanding and skill set in engineering and technolo
 
 
 ***I serve as a diligent Graduate Service Assistant (GSA) and Lab Assistant, supporting the development of the laboratory environment for EGR: 545/RAS: 545, a course focused on Robotic Systems – 1***
+
+***Key Responsibilities:***
+
 - Assignment Grading: I proficiently evaluate assignments related to robotic systems, demonstrating an in–depth understanding of the subject matter.
 - Laboratory Environment Enhancement: Actively contribute to the establishment of a cutting–edge laboratory environment for the course, encompassing equipment setup to create an ideal learning environment.
 
 
 ***Notable Achievements***
+
+***Project 1: Advanced Robotics Automation and Optimization.***
+
 - Proficient in Dobot Robot Cobot Operation, including Conveyor Belt integration in ROS using Python.
 - Successful execution of complex tasks involving forward and inverse kinematics in robotics
 - Improved operational efficiency through real–time color recognition for object identification
@@ -83,11 +89,19 @@ I possess extensive expertise in robotics, ROS, Python programming, and advanced
 
 
 ***As a dedicated Graduate Service Assistant (GSA) and Lab Assistant serving as a Project Leader for EGR: 545/RAS: 545, focusing on Robotic Systems – 1***
+
+***Key Responsibilities:***
+
+
 - Laboratory Setup: Orchestrated laboratory setup and maintenance for an optimal student learning environment.
 - Robotic Systems Project Management: Efficiently managed Robotic Systems projects, demonstrating strong project leadership
 
   
 ***Notable Achievements***
+
+***Project 1: Digital Twin Development for Universal Robots UR5 Collaborative Robot.***
+
+
 - Connectivity and Control : Implemented the "universalrobot" object using Robotics Systems Toolbox and ROS Toolbox for a robust connection with a simulated Universal Robots cobot
 - Control Expertise : Demonstrated expertise in joint space control, task space control, waypoint tracking in task space, and waypoint tracking in joint space
 - Simulator Flexibility : Utilized Gazebo and URSim/RoboDK simulators as needed for project execution. Designed mounts for polyscope (teach pendant), tower light, and palletizer using SolidWorks. Maintained comprehensive documentation throughout the project.
@@ -100,11 +114,18 @@ In summary, this experience highlights proficiency in robotics and control syste
 
 
 ***As a dedicated Graduate Service Assistant (GSA) and Lab Assistant serving as a Project Leader, I have been instrumental in preparing the laboratory environment for the esteemed EGR 550 course, focusing on Mechatronic Systems***
+
+***Key Responsibilities:***
+
 - Laboratory Setup: Skillfully orchestrated the setup and maintenance of the laboratory, ensuring an optimal learning environment for students
 -	Mechatronic Systems Project Management: Efficiently managed projects related to Mechatronic Systems, demonstrating strong project leadership
 
 
 ***Notable Achievements***
+
+***Project 1: Autonomous Robotic Manipulation &amp; Object Detection.***
+
+
 - Universal Robot Cobot Programming: Proficiently programmed the Universal Robot cobots (UR3e/UR5e) to autonomously handle and palletize dice based on specified parameters.
 - Advanced Vision Color Sensor Integration: Successfully integrated cutting–edge vision color sensors (iVu series by Banner Engineering) into cobot platforms, enabling precise object detection and pattern recognition.
 - Electric Conveyor Belt System Engineering: Engineered a customized electric conveyor belt system with seamless Bosch electric gear motor integration, optimizing workflow through responsive object detection. Personally, undertook the entire wiring system from inception.
@@ -116,8 +137,10 @@ These achievements underscore my leadership, technical acumen, and problem–sol
   
 **Product Engineer @ Xdroid Prototyping Technologies LLP, Bangalore, Karnataka, India (_January 2019_ - _July 2022_)**
 
-***A pioneering technology startup at the forefront of 3D printing and rapid prototyping, specializing in innovative solutions for commercial applications within the dynamic Indian market.***
+***Company: A pioneering technology startup at the forefront of 3D printing and rapid prototyping, specializing in innovative solutions for commercial applications within the dynamic Indian market.***
 
+
+***Projects:***
 
 - Spearheaded the development of Dual Nozzle 3D Printers catered for educational purposes, enhancing learning experiences through advanced technology
 - Led the design and implementation of a state–of–the–art Edible Chocolate 3D Printer, carving a niche in the confectionery industry
@@ -147,7 +170,10 @@ I specialized in prototyping and excelled in both technical and commercial docum
 
 **Mechanical Engineer @ Flux Auto (Autonomous Vehicles), Bangalore, Karnataka, India (_January 2018_ - _December 2018_)**
 
-***An innovative startup at the forefront of cutting–edge technology, dedicated to advancing autonomous driving solutions customized for a wide array of controlled and uncontrolled environments in India, with a primary emphasis on commercial heavy vehicles***
+***Comapny : An innovative startup at the forefront of cutting–edge technology, dedicated to advancing autonomous driving solutions customized for a wide array of controlled and uncontrolled environments in India, with a primary emphasis on commercial heavy vehicles***
+
+
+***Projects***
 
 - Transformation of Eicher 10.90 Truck
 - Development of an Electric Buggy (6–seater).
@@ -182,14 +208,17 @@ Problem–solving was a daily occurrence, whether in addressing operational issu
 
 Overall, this role was a dynamic learning ground, where I acquired and applied a wide array of skills essential for advanced engineering in the autonomous vehicle industry
 
-[Link 1](https://www.youtube.com/watch?v=MjFrbcXPQ5g)
-[Link 2](https://www.youtube.com/watch?v=gvvuXO6BG98&t=89s)
-[Link 3](https://www.youtube.com/watch?v=Vf0nwa_KHeg)
+[Robotic Vision - Flux Auto - Self Driving Trucks](https://www.youtube.com/watch?v=MjFrbcXPQ5g)
+[Flux Auto - 10 km Autonomous Driving on Indian Highway](https://www.youtube.com/watch?v=gvvuXO6BG98&t=89s)
+[Flux Auto Self Driving Truck Highway Testing](https://www.youtube.com/watch?v=Vf0nwa_KHeg)
 
 
 **Mechanical Site Engineer @ Ramkrishy Infrastructure Pvt. Ltd, Bangalore, Karnataka, India (_January 2017_ - _January 2018_)**
 
-***A well–established organization headquartered in Bengaluru, specializing in executing a diverse portfolio of both private and government contracts within the realm of construction and infrastructure projects***
+***Company : A well–established organization headquartered in Bengaluru, specializing in executing a diverse portfolio of both private and government contracts within the realm of construction and infrastructure projects***
+
+
+***Project:***
 
 - Orchestrated the development of a (25MLD) Sewage Treatment Plant in Borehalli Village (Bidadi), Ramanagara District
 
@@ -272,7 +301,7 @@ The significance of this project lies in its innovative approach that merges var
 
 
 ### Advanced Control and Navigation of Parrot Mambo Drone
-[Video](https://www.youtube.com/watch?v=4SRDtLpXJ7o)
+[Parrot Mambo Minidrone](https://www.youtube.com/watch?v=4SRDtLpXJ7o)
 
 I led a comprehensive initiative focused on leveraging MATLAB/Simulink to augment and manage the functionalities of the Parrot Mambo Drone. This multifaceted endeavor encompassed overseeing various subprojects aimed at refining the drone's capabilities, with a specific emphasis on precision control and autonomous navigation.
 
@@ -333,7 +362,7 @@ Demonstrated Mastery in Robotics and Control Systems These projects underscore m
 
 ### Ultrasonic Radar System
 
-[Radar System](https://www.youtube.com/watch?v=5SPq0QYEfzU)
+[Ultrasonic Radar](https://www.youtube.com/watch?v=5SPq0QYEfzU)
 
 
 In this academic endeavor, I led the development and programming of an advanced ultrasonic radar system, capitalizing on the Arduino Uno platform within the Arduino IDE and MATLAB environments. The primary objective was to create a sophisticated system for the detection, location, and attribute measurement of objects in its operational vicinity.
