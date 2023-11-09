@@ -388,6 +388,43 @@ The project culminated in the development of a highly functional and innovative 
 This project represents a fusion of technical expertise, simulation–driven precision, and comprehensive design proficiency. It underscores our ability to innovate and effectively implement complex technological solutions, making it a valuable contribution to the field of radar systems and object detection
 
 
+## Technical Certifications:
+
+[Information Security Fundamentals Training](https://api.badgr.io/public/assertions/tSRLgkN4Q6uVLwaLT4n3vA?identity__email=rmenon12%40asu.edu)
+
+[Introduction to Robotics in Microelectronics Manufacturing](https://api.badgr.io/public/assertions/8lUJgTaNTeWe1AEexoPpsQ?identity__email=rmenon12%40asu.edu)
+
+[e–Series Core Track](https://drive.google.com/file/d/1z6k5kJSTi53manvLkoeYhC4YF2wiCscO/view?usp=drive_link)
+
+[The Recreational UAS Safety Test (TRUST) Completion Certificate](https://drive.google.com/file/d/1_zn4z2xZvPeoSI2hX_Nvap2d3GU6uIqX/view?usp=share_link)
+
+
+[MATLAB Fundamentals](https://drive.google.com/file/d/1OBc0–Dstu7mjxqSfPrk0IcFP3nDkWMD8/view?usp=share_link)
+
+[MATLAB Programming Techniques](https://drive.google.com/file/d/1y5l4y_aZc6OutLWCwh1rH6io_SNBaEeS/view?usp=share_link)
+
+[Solving Ordinary Differential Equations with MATLAB](https://drive.google.com/file/d/1znUDPeq0Vp4jD1gbH4jAsq69qYoJBgt_/view?usp=share_link)
+
+[MATLAB for Data Processing and Visualization](https://drive.google.com/file/d/1m8Tmpy9xJCfo38MmKxd999VhIzB6LQuJ/view?usp=share_link)
+
+[Machine Learning with MATLAB](https://drive.google.com/file/d/1p–rm62MgZFWJHIQpge2jSyoIvhn3r7r4/view?usp=share_link)
+
+[Deep Learning Onramp](https://drive.google.com/file/d/1Mhl7B1–6qaZ0WJb–T9ZFTsraJbKD02DS/view?usp=share_link)
+
+[Reinforcement Learning Onramp](https://drive.google.com/file/d/1U5jCsP4qG1vj1SfzWTxFMiKHCoimKjAe/view?usp=share_link)
+
+[Simscape Onramp](https://drive.google.com/file/d/1VSlAH9WQ1BBNetCUCAB_R7w65YL0At7u/view?usp=share_link)
+
+[Stateflow Onramp](https://drive.google.com/file/d/1aUh9gYsfnxLCwnKd_UeuYNa1D8qkPY33/view?usp=share_link)
+
+[Control Design Onramp with Simulink](https://drive.google.com/file/d/1SZvDUlIMMO5–x8rtmv5CAJGkr_eqmyyi/view?usp=share_link)
+
+[Image Processing with MATLAB](https://drive.google.com/file/d/1fLRw2W8_X3QQBYxUwtwiApEBDrHPxuZA/view?usp=share_link)
+
+[Introduction to Linear Algebra with MATLAB](https://drive.google.com/file/d/1cBCqOlOCMBkN4FxexK7Hy3Sbq20MSzcS/view?usp=share_link)
+
+
+
 
 ## Patent Publication Details
 **Title** : An Electromechanical Heart
