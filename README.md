@@ -424,6 +424,44 @@ This project represents a fusion of technical expertise, simulation–driven pre
 [Introduction to Linear Algebra with MATLAB](https://drive.google.com/file/d/1cBCqOlOCMBkN4FxexK7Hy3Sbq20MSzcS/view?usp=share_link)
 
 
+***Diploma Certification in Embedded Systems and Programming***
+****Embisys Labs Training Institute – Bengaluru, Karnataka, India****
+- C and Data Structure Programming
+- C++
+- Object–Oriented Programming (OOPs)
+- Python Programming
+- Graphical User Interface (GUI) and OOPs in Python
+- ARM7TDMI–S and Embedded C Programming
+- Unix and Linux System Programming
+- Linux Internals and IPCs
+- Linux Char Device Driver and Kernel Programming
+- Real–Time Operating System (RTOS)
+[Certification](https://drive.google.com/file/d/1BZYTUZIqDNxd4CMtvXUu–7L5ejQ0ZFe4/view?usp=share_link)
+
+
+***Master Diploma Certification in Product Design and Analysis***
+****Computer Aided Design and Drafting Centre – Bengaluru, Karnataka, India****
+- Analysis System
+- Computer Aided Three–Dimensional Interactive Application (CATIA)
+- HyperMesh
+- Creo
+- Geometric Dimensioning and Tolerancing (GD&T)
+- Microsoft Project
+- Project Planning and Management
+[Certification](https://drive.google.com/file/d/14V–XCNAGcKh0k948aWDQon134MCKQtdd/view?usp=share_link)
+
+
+
+***Master Diploma Certification in PC – Next***
+****Indian Institute of Job Training Centre – Bengaluru, Karnataka, India****
+- A+ (Installing, Maintaining, Customizing and Operating Personal Computers)
+- Network+
+- Security+
+- Microsoft Certified IT Professional (MCITP)
+- Cisco Certified Network Associate (CCNA)
+- Red Hat Certified Engineer (RHCE)
+- Certified Wireless Network Administrator (CWNA)
+[Certification](https://drive.google.com/file/d/12BqrahE–47qeKM4EBWs2K5KEub–utS93/view?usp=share_link)
 
 
 ## Patent Publication Details
