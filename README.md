@@ -1,4 +1,4 @@
-# Robotics GRAD Student @ASU
+# Robotics and Autonomous Systems graduate Student @ASU
 
 With an unwavering dedication to unraveling the intricacies of the world and a lifelong curiosity that fuels my drive, I've embarked on a multidisciplinary odyssey, weaving together my passions for science fiction, mythology, and groundbreaking engineering. Fueled by my educational background in Mechanical Engineering, I've charted a path into the ever–evolving domain of Robotics and Autonomous Systems within Systems Engineering.
 
