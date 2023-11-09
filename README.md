@@ -10,7 +10,7 @@ My goal is to broaden my understanding and skill set in engineering and technolo
 - 📫 How to reach me:
 
 
-[<img src="https://img.shields.io/badge/linkedin%20-%23039BE5.svg?&style=for-the-badge&logo=linkedin"/>](https://www.linkedin.com/in/rohit–menon–44ba49198/)
+[<img src="https://img.shields.io/badge/linkedin%20-%23039BE5.svg?&style=for-the-badge&logo=linkedin"/>](https://www.linkedin.com/in/rohit-menon-44ba49198/)
 
 [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/RohitMenon120192)
 
