@@ -8,8 +8,19 @@ The convergence of my educational foundations, diverse professional experiences,
 My goal is to broaden my understanding and skill set in engineering and technology, positioning myself as a pioneer at the vanguard of instigating transformative change and driving impactful advancements within the field.
 
 - 📫 How to reach me: 
-    [<img src="https://img.shields.io/badge/linkedin%20-%23039BE5.svg?&style=for-the-badge&logo=linkedin"/>](https://www.linkedin.com/in/rohit–menon–44ba49198/)
+[<img src="https://img.shields.io/badge/linkedin%20-%23039BE5.svg?&style=for-the-badge&logo=linkedin"/>](https://www.linkedin.com/in/rohit–menon–44ba49198/)
+
 [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/RohitMenon120192)
+
+[<img src="https://img.shields.io/badge/instagram-%23962fbf.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/rm120192/)
+
+[<img src="https://img.shields.io/badge/facebook%20-%23039BE5.svg?&style=for-the-badge&logo=facebook"/>](https://www.facebook.com/rohit.menon.940)
+
+[<img src="https://img.shields.io/badge/snapchat%20-%23121011.svg?&style=for-the-badge&logo=snapchat&logoColor=yellow"/>](https://www.snapchat.com/add/rm120192?share_id=IbWqObQxJwk4&amp;locale=en–US)
+
+[<img src="https://img.shields.io/badge/whatsapp-%234ea94b.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/14808764550)
+[<img src="https://img.shields.io/badge/whatsapp-%234ea94b.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"/>](https://wa.me/14808764550)
+
 
   
 
