@@ -1,4 +1,4 @@
-# Robotics and Autonomous Systems graduate Student @ASU
+# Robotics and Autonomous Systems Graduate Engineer at ASU.
 
 With an unwavering dedication to unraveling the intricacies of the world and a lifelong curiosity that fuels my drive, I've embarked on a multidisciplinary odyssey, weaving together my passions for science fiction, mythology, and groundbreaking engineering. Fueled by my educational background in Mechanical Engineering, I've charted a path into the ever–evolving domain of Robotics and Autonomous Systems within Systems Engineering.
 
@@ -27,7 +27,7 @@ My goal is to broaden my understanding and skill set in engineering and technolo
   
 
 ## Technical Skills
-### Programming Languages Known
+### Programming Languages and Frameworks
 
 <p float="left">
   C, C++, Docker, Embedded C, Matlab & Simulink, Python, Unix (Linux). 
