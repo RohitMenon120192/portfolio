@@ -41,7 +41,7 @@ My goal is to broaden my understanding and skill set in engineering and technolo
 
 ### Technical Expertise
 <p float="left">
-  Artificial Intelligence, Computer Vision, Deep Learning, Deep Reinforcement Learning, Embedded Systems, Kinematic & Dynamic Systems, Machine Learning, Neural Network, Linear Systems, Non–Linear Systems, Path Planning & Navigation, Robotics Simultaneous Localization and Mapping, Software & Hardware Development
+  Artificial Intelligence, Computer Vision, Deep Learning, Deep Reinforcement Learning, Embedded Systems, Kinematic & Dynamic Systems, Machine Learning, Neural Network, Linear Systems, Non–Linear Systems, Path Planning & Navigation, Robotics Simultaneous Localization and Mapping, Hardware & Software Development
 </p>
 
 
@@ -50,12 +50,12 @@ My goal is to broaden my understanding and skill set in engineering and technolo
 - **GPA: 4.11/4.0**	 			        		
 
 ## Work Experience
-**Graduate Services Assistant – Grader/Laboratory Assistant @ Ira A. Fulton Schools of Engineering at Arizona State University (_August 2023_ - present)**
+**Graduate Services Assistant – Grader/Laboratory Assistant @ Ira A. Fulton Schools of Engineering at Arizona State University (August 2023 - November 2023)**
 
 
-***I serve as a diligent Graduate Service Assistant (GSA) and Lab Assistant, supporting the development of the laboratory environment for EGR: 545/RAS: 545, a course focused on Robotic Systems – 1***
+**I serve as a diligent Graduate Service Assistant (GSA) and Lab Assistant, supporting the development of the laboratory environment for EGR: 545/RAS: 545, a course focused on Robotic Systems – 1**
 
-***Key Responsibilities:***
+**Key Responsibilities:**
 
 - Assignment Grading: I proficiently evaluate assignments related to robotic systems, demonstrating an in–depth understanding of the subject matter.
 - Laboratory Environment Enhancement: Actively contribute to the establishment of a cutting–edge laboratory environment for the course, encompassing equipment setup to create an ideal learning environment.
@@ -65,17 +65,17 @@ My goal is to broaden my understanding and skill set in engineering and technolo
 
 ***Project 1: Advanced Robotics Automation and Optimization.***
 
-- **Proficient in Dobot Robot Cobot Operation**, including Conveyor Belt integration in ROS using Python.
-- Successful execution of complex tasks involving forward and inverse kinematics in robotics
-- Improved operational efficiency through real–time color recognition for object identification
-- Implemented **YOLO object detection techniques** for palletizing processes and object orientation control
-- Expertise in using **gripper and vacuum systems** for pick and place operations in robotics
-- Meticulous documentation to maintain accurate project records
+- Proficient in Dobot Robot Cobot Operation, including Conveyor Belt integration in ROS using Python.
+- Successful execution of complex tasks involving forward and inverse kinematics in robotics.
+- Improved operational efficiency through real–time color recognition for object identification.
+- Implemented YOLO object detection techniques for palletizing processes and object orientation control.
+- Expertise in using gripper and vacuum systems for pick and place operations in robotics.
+- Meticulous documentation to maintain accurate project records.
 
   
 **I possess extensive expertise in robotics, ROS, Python programming, and advanced algorithms, making me an asset in the field of robotics and automation**, with the potential for significant contributions to academic pursuits and future career opportunities.
 
-**Graduate Service Assistant – Laboratory Assistant and Project Lead @ Ira A. Fulton Schools of Engineering at Arizona State University  (_August 2023_ - present)**
+**Graduate Service Assistant – Laboratory Assistant and Project Lead @ Ira A. Fulton Schools of Engineering at Arizona State University  (August 2023 - November 2023)**
 
 
 ***As a dedicated Graduate Service Assistant (GSA) and Lab Assistant serving as a Project Leader for EGR: 545/RAS: 545, focusing on Robotic Systems – 1***
@@ -89,18 +89,30 @@ My goal is to broaden my understanding and skill set in engineering and technolo
   
 ***Notable Achievements***
 
-***Project 1: Digital Twin Development for Universal Robots UR5 Collaborative Robot.***
+***Project 2: Advanced Robotic Manipulation and Programming: A Hands-On Exploration with Universal Robots UR5.***
 
 
-- Connectivity and Control : Implemented the "universalrobot" object using Robotics Systems Toolbox and ROS Toolbox for a robust connection with a simulated Universal Robots cobot
-- Control Expertise : Demonstrated expertise in joint space control, task space control, waypoint tracking in task space, and waypoint tracking in joint space
-- Simulator Flexibility : Utilized Gazebo and URSim/RoboDK simulators as needed for project execution. Designed mounts for polyscope (teach pendant), tower light, and palletizer using SolidWorks. Maintained comprehensive documentation throughout the project.
+**Task 1 - Cartesian and Joint Space Movement**
+- Throughout this lab, I led graduate students in performing precise movements in both Cartesian and joint space on Universal Robots UR5. Leveraging my expertise, I guided the students through the execution of various poses using PolyScope, the tablet interface connected to the robot.
+
+**Task 2 - Tracing Virtual Cubes**
+- As part of the instructional sessions, I guided graduate students in the creation of programs using RoboDK, Polyscope, or URScript to trace two virtual cubes. I emphasized the optimization of specific side lengths while maintaining a constant gripper orientation, showcasing the spatial manipulation capabilities of robotic programming.
+
+**Task 3 - Repeatability Testing**
+- I facilitated a lab where graduate students developed programs, utilizing PolyScope, URScript, or RoboDK, to test the repeatability of the robot. The students touched a single point on a granite block multiple times, measuring offsets with three digital indicators to assess the robot's consistency.
+
+**Task 4 - Straightness Testing**
+- In a hands-on session, I guided graduate students in creating programs using their chosen software to evaluate the robot's straightness in three directions. Using a single digital indicator, students measured the straightness of a granite block, gaining insights into the precision and accuracy of the robot's straight-line movements.
+
+**Task 5 - Gripper Calibration and Pick-and-Place**
+- I conducted a lab where I instructed graduate students in calibrating the gripper's force in Newtons based on speed and force settings in PolyScope or URScript. Demonstrating the open and close actions of the gripper, students practiced pick-and-place tasks, moving dice between trays while showcasing color palletizing.
+
+**Task 6 - Flashlight Assembly**
+- In an instructional setting, I guided graduate students in programming the robot using their preferred software for the assembly of a flashlight. Students learned to clamp the flashlight's head into a pneumatic chuck and assemble four parts—head, barrel, tail cap, and battery—culminating in placing the completed assembly onto a tray. This lab provided valuable hands-on experience in automating assembly processes with a robotic system.
 
 
-In summary, this experience highlights **proficiency in robotics and control systems, solidifying expertise in this dynamic field**
 
-
-**Graduate Service Assistant – Laboratory Assistant and Project Lead @ Ira A. Fulton Schools of Engineering at Arizona State University (_August 2023_ - present)**
+**Graduate Service Assistant – Laboratory Assistant and Project Lead @ Ira A. Fulton Schools of Engineering at Arizona State University (August 2023 - November 2023)**
 
 
 ***As a dedicated Graduate Service Assistant (GSA) and Lab Assistant serving as a Project Leader, I have been instrumental in preparing the laboratory environment for the esteemed EGR 550 course, focusing on Mechatronic Systems***
