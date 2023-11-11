@@ -46,7 +46,7 @@ My goal is to broaden my understanding and skill set in engineering and technolo
 
 
 ## Education
-- **Master of Science**, **Robotics and Autonomous Systems**, **Arizona State University (_August 2022_ May_2024)**
+- **Master of Science**, **Robotics and Autonomous Systems**, **Arizona State University (August 2022 - May 2024)**
 - **GPA: 4.11/4.0**	 			        		
 
 ## Work Experience
