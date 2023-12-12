@@ -266,7 +266,9 @@ Collaboration was fundamental, fostering my teamwork skills, while the demanding
 ***Conclusion:*** The project showcased a diverse skill set encompassing software development, hardware integration, control systems, and cutting–edge technology. It presented a robust and forward–thinking solution for managing autonomous vehicles over 5G networks. The demonstrated capacity for innovation and comprehensive system development aligns well with the evolving technological landscape in the automotive industry. 
 
 
-### Advanced Driver Monitoring System (ADMS)
+### Driver Monitoring System (ADMS)
+
+[Driver Monitoring System](https://www.youtube.com/watch?v=vjYG8DtV0jg)
 
 In the Academic Project titled ***"Advanced Driver Monitoring System (ADMS),"*** my leadership focused on developing a robust system that harnessed Convolutional Neural Networks (CNN) to accurately identify various driving behaviors. The project's core was meticulously designed and trained, utilizing the power of deep learning to craft a model capable of not only detecting but also comprehensively analyzing different driving behaviors.
 
