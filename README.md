@@ -54,6 +54,22 @@ Rohit aspires to expand his horizons, further honing his skills and knowledge in
 - **GPA: 3.96/4.0**	 			        		
 
 ## Work Experience
+
+**Master’s Opportunity for Research in Engineering (MORE)**
+
+**•	Selected for the prestigious Master’s Opportunity for Research in Engineering (MORE) program, this role primarily focuses on pioneering research in the control of off-road automated vehicles utilizing the advanced capabilities of the 5G network. The project aims to blend cutting-edge communication technology with innovative vehicular automation to enhance off-road navigation and control systems.**
+
+**Key Responsibilities:**
+
+- Develop and integrate complex systems, engineer, and program sophisticated software, implement and test robust hardware, utilize cutting-edge 5G network capabilities, ensure utmost safety and reliability, and create intuitive user interfaces.
+
+***Applied Project: Control of an Off-Road Automated Vehicle over the 5G-Network.***
+
+- This project aims to develop a sophisticated and advanced system for the management and control of an off-road automated vehicle, utilizing the advanced capabilities of 5G wireless telecommunications. This endeavor will concentrate on facilitating instantaneous data exchange, enabling robust remote control, and ensuring the secure operation of autonomous systems.
+- Central to this project is the development of an integrated control system, which necessitates the establishment of seamless communication between various hardware components. To achieve this, the project will leverage an array of software tools including MATLAB/Simulink, ROS, and an Embedded C-based control framework, in addition to utilizing proprietary software solutions provided by the respective hardware manufacturers. This multifaceted software approach is designed to ensure a robust and cohesive interaction between all integrated systems, thereby enhancing the overall functionality and reliability of the control system.
+- The system will be specifically tailored to interface with the Jeep Grand Cherokee's critical control units such as the Engine Control Unit (ECU), Transmission Control Unit (TCU), Electric Power Steering (EPS), as well as the throttle and braking mechanisms, alongside other pivotal sensors. This integration process will involve incorporating a drive-by-wire kit sourced from New Eagle and the MicroAutoBox II Controller from dSPACE. Additionally, the system will leverage a Global Navigation Satellite System/Global Positioning System from Swift Navigation, complemented by cutting-edge camera technology for real-time data acquisition and surveillance. The incorporation of multiple cameras will enable comprehensive observation and monitoring of the vehicle's environment, enhancing situational awareness and operational safety.
+- By harnessing the potent capabilities of 5G technology, this project aims to significantly enhance the safety, reliability, and operational efficiency of autonomous vehicles. Moreover, it will establish a framework for remote monitoring and control, ensuring a comprehensive and responsive autonomous driving experience. The incorporation of a joystick for vehicle control over the 5G network introduces an innovative dimension to the project, offering a tactile and intuitive interface for real-time vehicle management and maneuvering.
+
 **Graduate Services Assistant – Grader/Laboratory Assistant @ Ira A. Fulton Schools of Engineering at Arizona State University (August 2023 - December 2023)**
 
 **I serve as a diligent Graduate Service Assistant (GSA) and Lab Assistant, supporting the development of the laboratory environment for EGR: 545/RAS: 545, a course focused on Robotic Systems – 1.**
