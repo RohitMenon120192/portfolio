@@ -60,7 +60,6 @@
 
 ## TECHNICAL EXPERTISE.
 
-<p float="left">
 - Artificial Intelligence
 - Computer Vision
 - Control Systems
@@ -78,13 +77,11 @@
 - Power Electronics
 - Simultaneous Localization and Mapping
 - Software Programming.
-</p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Key Soft Skills Overview.
 
-<p float="left">
 - An accomplished professional excelling in soft skills crucial for effective workplace dynamics.
   
 - Proficient in communication, adept at fostering teamwork and collaboration, and displaying adaptability in diverse environments.
@@ -94,7 +91,6 @@
 - High emotional intelligence enables effective conflict resolution and a conducive work atmosphere, coupled with a penchant for creative and innovative solutions.
   
 - Skilled in networking and building lasting professional relationships to drive overall success.
-</p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
