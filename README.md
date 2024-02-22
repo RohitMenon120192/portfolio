@@ -80,7 +80,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Key Soft Skills Overview.
+## SOFT SKILLS.
 
 - An accomplished professional excelling in soft skills crucial for effective workplace dynamics.
   
