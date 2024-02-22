@@ -2,10 +2,6 @@
 
 ## Autonomous Systems Aficionado
 
-## Master of Science - Robotics and Autonomous Systems - Systems Engineering
-
-## Bachelor of Technology - Mechanical Engineering
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## About Rohit Menon.
@@ -102,6 +98,11 @@
 - GPA: 3.96/4.0
 - AZ, USA
 
+- Bachelor of Technology - Mechanical Engineering
+- 06/2012 - 06/2016
+- CGPA: 6.4/10.0
+- India
+ 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                		
 ## PROFESSIONAL EXPERIENCE.
