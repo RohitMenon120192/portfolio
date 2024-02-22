@@ -10,7 +10,7 @@
   mechanical engineering. There, I fell in love with the process of designing and manufacturing, discovering the sheer joy of turning abstract ideas into tangible, working systems. It was challenging, sure, but 
   seeing my designs come to life was thrilling.
 
-- As my career progressed, I couldn't help but be drawn to the next frontier: robotics and automation. It felt like a natural step, fueled by my curiosity to explore how much further we could push technology. 
+- As my career progressed, I couldn't help but be drawn to the next frontier: robotics and autonomous systems. It felt like a natural step, fueled by my curiosity to explore how much further we could push technology. 
   Learning to code and getting to grips with embedded systems felt like unlocking a new level of creativity. I was hooked.
 
 - My passion didn't stop there. I decided to deepen my expertise with a master's in robotics and autonomous systems, focusing on systems engineering. Diving into machine learning, deep reinforcement learning, 
