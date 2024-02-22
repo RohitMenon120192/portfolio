@@ -130,26 +130,6 @@
 
 - Project 1: Advanced Robotics Automation, Optimization and Programming of an Elephant Robotics MYCOBOT. 
 
-- Key Achievements:
-
-- Task 1: - Robotic Arm Calibration and Manipulation:
-          This aspect likely involves the precise adjustment and control of the robotic arm. Calibration is crucial for ensuring the robot performs tasks accurately. Manipulation involves the robot’s ability to            move and position its arm and end-effectors (like grippers or tools) to interact with objects in its environment.
-          
-- Task 2 - Forward and Inverse Kinematics: These are critical concepts in robotics:
-         Forward Kinematics: This is about determining the position and orientation of the robot’s end-effector based on the joint parameters (like angles for a robotic arm).
-         Inverse Kinematics: This deals with calculating the joint parameters necessary to achieve a desired position and orientation of the end-effector. It’s often more complex than forward kinematics.
-
-- Task 3 - Color Recognition:
-         This involves the robot’s ability to detect and recognize different colors. This capability is essential in many automation tasks where the robot needs to identify objects based on color.
-
-- Task 4 - YOLO (You Only Look Once) Object Detection:
-         YOLO is a state-of-the-art, real-time object detection system. In this project, it would allow the robot to identify and locate objects in its visual field quickly and accurately, which is crucial for            interaction with various objects.
-
-- Task 5 - Python-based Controller for Tic-Tac-Toe Game:
-         The project includes developing a Python-based control system for the MYCOBOT to play tic-tac-toe. This involves programming the robot to understand the game’s rules, make strategic moves, and interact           with a human opponent. The automatic restart feature after wins or draws indicates a sophisticated level of programming that ensures continuous and autonomous operation of the game.
-
-- Advanced Robotics Automation, Optimization and Programming of an Elephant Robotics MyCobot.
-
 - YouTube - [Advanced Robotics Automation, Optimization and Programming of an Elephant Robotics MyCobot](https://www.youtube.com/watch?v=3d2UNpf4clo) 
 
 - GitHub - [Advanced Robotics Automation, Optimization and Programming of an Elephant Robotics MyCobot](https://github.com/RohitMenon120192/Advanced-Robotics-Automation--Optimization-and-Programming-of-an-Elephant-Robotics-MYCOBOT)
@@ -159,26 +139,6 @@
 - YouTube - [DOBOT Robot Programming](https://www.youtube.com/watch?v=6jzuxFe1-vU)
 
 - Project 2: Advanced Robotic Manipulation and Programming: A Hands-On Exploration with Universal Robots UR5/CB-3 Series.
-
-- Key Achievements:
-
-- Task 1 - Cartesian and Joint Space Movement:
-         Throughout this lab, I led graduate students in performing precise movements in both Cartesian and joint space on Universal Robots UR5. Leveraging my expertise, I guided the students through the                  execution of various poses using PolyScope, the tablet interface connected to the robot.
-
-- Task 2 - Tracing Virtual Cubes:
-         As part of the instructional sessions, I guided graduate students in the creation of programs using RoboDK, Polyscope, or URScript to trace two virtual cubes. I emphasized the optimization of specific            side lengths while maintaining a constant gripper orientation, showcasing the spatial manipulation capabilities of robotic programming.
-
-- Task 3 - Repeatability Testing:
-         I facilitated a lab where graduate students developed programs, utilizing PolyScope, URScript, or RoboDK, to test the repeatability of the robot. The students touched a single point on a granite block            multiple times, measuring offsets with three digital indicators to assess the robot’s consistency.
-
-- Task 4 - Straightness Testing:
-         In a hands-on session, I guided graduate students in creating programs using their chosen software to evaluate the robot’s straightness in three directions. Using a single digital indicator, students             measured the straightness of a granite block, gaining insights into the precision and accuracy of the robot’s straight-line movements.
-
-- Task 5 - Gripper Calibration and Pick-and-Place:
-         I conducted a lab where I instructed graduate students in calibrating the gripper’s force in Newtons based on speed and force settings in PolyScope or URScript. Demonstrating the open and close actions           of the gripper, students practiced pick-and-place tasks, moving dice between trays while showcasing color palletizing.
-
-- Task 6 - Flashlight Assembly:
-        In an instructional setting, I guided graduate students in programming the robot using their preferred software for the assembly of a flashlight. Students learned to clamp the flashlight’s head into a            pneumatic chuck and assemble four parts—head, barrel, tail cap, and battery—culminating in placing the completed assembly onto a tray. This lab provided valuable hands-on experience in automating                 assembly processes with a robotic system.
 
 - Advanced Robotic Manipulation and Programming of a Universal Robot (UR3e/UR5e) Series.
 
@@ -334,6 +294,28 @@ An established organization located in the heart of Bengaluru, specializing in b
 - YouTube - [Self–Balancing Motorcycle](https://www.youtube.com/watch?v=PT3bBPZd–Gk)
 
 - GitHub - [Self–Balancing Motorcycle](https://github.com/RohitMenon120192/Self-Balancing-Motorcycle)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## RESEARCH PROJECTS.
+
+- Job Position: Research Assistant
+- Company: Ira A. Fulton Schools of Engineering at Arizona State University
+- Location: Mesa, Arizona, USA
+- Type of Work: On–site
+- Employment Duration: January 2024 - PRESENT.
+
+- Master’s Opportunity for Research in Engineering (MORE).
+
+- Research Assistant - Dynamic Systems and Control Laboratory.
+
+- Selected for the prestigious Master’s Opportunity for Research in Engineering (MORE) program, this role primarily focuses on pioneering research in the remote-control of off-road automated vehicles utilizing     the advanced capabilities of the 5G network. The project aims to blend cutting-edge communication technology with innovative vehicular automation to enhance off-road navigation and control systems.
+
+- Applied Project Topic: Remote-Control of an Off-Road Automated Vehicle over the 5G-Network.
+
+- Funded by ASU Master’s Opportunity for Research in Engineering (MORE) Program for Spring 2024.
+- Developing a control system for an automated off-road vehicle (Jeep Grand Cherokee) powered by 5G technology by utilizing Matlab/Simulink/ROS for system integration, interfacing the vehicle’s control units and   sensors with New Eagles drive-by-wire system, dSPACE MicroAutoBox II, and Swift Navigation GNSS GPS500 via CAN Bus.
+- Incorporating an intuitive joystick-based remote control and monitoring system to enable precise, real-time vehicle maneuvering, thereby elevating the autonomous driving experience, and integrating a camera      for live monitoring and feedback.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
