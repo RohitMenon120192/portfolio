@@ -61,7 +61,23 @@
 ## TECHNICAL EXPERTISE.
 
 <p float="left">
-- Artificial Intelligence, Computer Vision, Deep Learning, Deep Reinforcement Learning, Embedded Firmware Software & Hardware Development, Embedded Systems, Kinematic & Dynamic Systems, Linear Systems, Machine     Learning, Neural Network, Non–Linear Systems, Path Planning & Navigation, Power Electronics, Simultaneous Localization and Mapping, Software and Hardware Development.
+- Artificial Intelligence
+- Computer Vision
+- Control Systems
+- Deep Learning
+- Deep Reinforcement Learning
+- Embedded Firmware Software & Hardware Development
+- Embedded Systems
+- Hardware Development
+- Kinematic & Dynamic Systems
+- Linear Systems
+- Machine Learning
+- Neural Network
+- Non–Linear Systems
+- Path Planning & Navigation
+- Power Electronics
+- Simultaneous Localization and Mapping
+- Software Programming.
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -70,9 +86,13 @@
 
 <p float="left">
 - An accomplished professional excelling in soft skills crucial for effective workplace dynamics.
+  
 - Proficient in communication, adept at fostering teamwork and collaboration, and displaying adaptability in diverse environments.
+  
 - Possessing strong problem–solving abilities, leadership skills, and a meticulous approach to time management.
+  
 - High emotional intelligence enables effective conflict resolution and a conducive work atmosphere, coupled with a penchant for creative and innovative solutions.
+  
 - Skilled in networking and building lasting professional relationships to drive overall success.
 </p>
 
@@ -80,8 +100,10 @@
 
 ## EDUCATION.
 
-- Master of Science - Robotics and Autonomous Systems in Systems Engineering | 08/2022 – 05/2024 [Expected]
-- Ira A. Fulton Schools of Engineering at Arizona State University           | GPA: 3.96/4.0
+- Master of Science - Robotics and Autonomous Systems in Systems Engineering
+- 08/2022 – 05/2024 [Expected]
+- Ira A. Fulton Schools of Engineering at Arizona State University
+- GPA: 3.96/4.0
 - AZ, USA
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
