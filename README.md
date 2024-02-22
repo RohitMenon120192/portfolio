@@ -219,7 +219,7 @@
 
 - About the company:
 
-An established organization located in the heart of Bengaluru, specializing in both private and government contracts related to construction and infrastructure projects.
+- An established organization located in the heart of Bengaluru, specializing in both private and government contracts related to construction and infrastructure projects.
 
 - Projects:
  
