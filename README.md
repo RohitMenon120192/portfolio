@@ -4,6 +4,12 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## PROFESSIONAL BIO.
+
+- Bringing 7 years of focused experience in the industry, I offer a potent mix of skills in coding, embedded systems, mechanical design, controls, automation, and manufacturing. My expertise lies in seamlessly     integrating mechanical and robotic systems, as well as merging hardware with software effectively, underscored by a strong track record in problem-solving, communication, and teamwork. I am deeply committed to   leveraging my technical skills and collaborative work ethic to propel the company's mission towards a sustainable future.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## About Rohit Menon.
 
 - My journey through the world of engineering and robotics has been both exhilarating and incredibly rewarding. It all started with a genuine fascination for how things work, leading me into the field of 
