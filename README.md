@@ -165,21 +165,22 @@
 
 - Projects:
 
-1.	Engineered Dual Nozzle 3D Printers for Educational Settings.
-2.	Designed a Specialized 3D Printer for Crafting Edible Chocolate Creations.
-3.	Developed Advanced 3D Printed Prosthetics for Knee Replacement Surgeries.
-4.	Conducted Reverse Engineering and Fabrication Projects.
-5.	Collaborated with the Indian Space Research Organization (ISRO) - Human Space Flight Centre (HSFC) Department on a Spectrum of Endeavors, alongside Various Other Innovative Projects
+- 1.	Developed custom FDM, SLA, SLS 3D printers.
+- 2.	Engineered Dual Nozzle 3D Printers for Educational Settings.
+- 3.	Designed a Specialized 3D Printer for Crafting Edible Chocolate Creations.
+- 4.	Developed Advanced 3D Printed Prosthetics for Knee Replacement Surgeries.
+- 5.	Engineered a Concept SpeedGate for the UAE Ministry.
+- 6.	Collaborated with the Indian Space Research Organization (ISRO) - Human Space Flight Centre (HSFC) Department on a Spectrum of Endeavors, alongside Various Other Innovative Projects.
 
 - Key Achievements:
 
-- Conducted rigorous evaluations of final projects, ensuring functionality and quality standards were met with 95% precision, making necessary adjustments as required.
-- Introduced cutting-edge products and features, boosting customer satisfaction, and optimizing cost efficiency, establishing the product line as an industry leader.
-- Led the development of innovative 3D printers, including a dual-nozzle model and one specialized for edible chocolate production, delivering tangible value to clients.
+- Spearheaded the development of innovative products and systems focusing on cutting-edge 3D printing and additive manufacturing technologies, including rapid prototyping and reverse engineering.
+- Designed and developed custom FDM, SLA, SLS 3D printers tailored to client specifications and integrated a PLC system into an industrial 3D printer.
+- Engineered a Concept SpeedGate for the UAE Ministry and a Real-Time Thermal and Humidity Control System for the Indian Space Research Organization's Human Space Flight Centre.
+- Led the development of innovative dual nozzle 3D printers, including one specialized for edible chocolate production, delivering tangible value to clients.
 - Engineered a specialized 3D printer for knee replacement surgery, enabling hospitals to create custom knee holder prints for individual patients.
-- Utilized advanced techniques such as 3D scanning to streamline part development, achieving an engineering accuracy rate of 99%.
-- Developed a Real-Time Thermal and Humidity Control System with integrated LED illumination and touch interface, alongside a Custom Shape Display Balloon for the Indian Space Research Organization's Human Space   Flight Centre, advancing spaceflight technology.
 - Ensured comprehensive documentation to uphold project integrity and foster transparency and collaboration within the engineering team.
+
 
 - Job Position: Mechanical Engineer
 - Company: Flux Auto (Autonomous Vehicles)
@@ -198,14 +199,15 @@
 
 - Key Achievements:
 
-- Conducted cost-saving analyses and proposed solutions, resulting in a reduction in procurement costs.
-- Designed and developed prototypes for gear shifting, accelerator, braking, and clutch control systems, enhancing vehicle usability and performance through innovation and problem-solving.
-- Led the design and testing of an Autonomous steering controller for trucks.
+- Designed and developed retrofit solutions in SolidWorks for vehicle controls (throttle, brakes, steering, transmission) and sensor housings (cameras, LIDAR, radar).
+- Conducted FEA, CFD, and Fatigue Analyses, achieving a 90% success rate, significantly contributing to the development of mechanical components for autonomous vehicles.
+- Carried out data analyses on Sensors, GPS & Mapping, Telematics Data, and performed Object & Event Detection.
 - Developed automatic actuation systems integrating BLDC motors, leading to a 98% in response time.
-- Engineered mechanisms meeting system requirements with stress analyses and simulations, ensuring a 95% compliance rate.
+- Engineered mechanisms meeting system requirements with simulations, ensuring a 95% compliance rate.
 - Supervised the design and production of waterproof casings, ensuring 100% compliance with IP67 standards.
 - Conducted calibration activities for cameras and sensors.
 - Conducted in-depth research to specify, design, install, and upkeep mechanical systems.
+- Conducted cost-saving analyses and proposed solutions, resulting in a reduction in procurement costs.
 - Engaged in collaborative troubleshooting with engineering teams, offering technical expertise and insights, demonstrating teamwork and communication skills.
 - Ensured meticulous documentation of all project aspects, including specifications, modifications, and performance data.
 
