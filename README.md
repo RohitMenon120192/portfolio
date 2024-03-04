@@ -6,7 +6,9 @@
 
 ## PROFESSIONAL BIO.
 
-- Bringing 7 years of focused experience in the industry, I offer a potent mix of skills in coding, embedded systems, mechanical design, controls, automation, and manufacturing. My expertise lies in seamlessly     integrating mechanical and robotic systems, as well as merging hardware with software effectively, underscored by a strong track record in problem-solving, communication, and teamwork. I am deeply committed to   leveraging my technical skills and collaborative work ethic to propel the company's mission towards a sustainable future.
+- With a robust foundation of 7 years in the industry, I embody a comprehensive blend of expertise across mechanical design and systems, coding, embedded systems, controls, automation, and manufacturing. My 
+  proficiency is rooted in the artful integration of mechanical and robotic systems, coupled with a seamless fusion of hardware and software, underscored by a strong track record in problem-solving, 
+  communication, and teamwork. I am deeply committed to leveraging my technical skills and collaborative work ethic to propel the company’s mission towards a sustainable future.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -16,7 +18,8 @@
   mechanical engineering. There, I fell in love with the process of designing and manufacturing, discovering the sheer joy of turning abstract ideas into tangible, working systems. It was challenging, sure, but 
   seeing my designs come to life was thrilling.
 
-- As my career progressed, I couldn't help but be drawn to the next frontier: robotics and autonomous systems. It felt like a natural step, fueled by my curiosity to explore how much further we could push technology. 
+- As my career progressed, I couldn't help but be drawn to the next frontier: robotics and autonomous systems. It felt like a natural step, fueled by my curiosity to explore how much further we could push 
+  technology. 
   Learning to code and getting to grips with embedded systems felt like unlocking a new level of creativity. I was hooked.
 
 - My passion didn't stop there. I decided to deepen my expertise with a master's in robotics and autonomous systems, focusing on systems engineering. Diving into machine learning, deep reinforcement learning, 
@@ -40,7 +43,7 @@
 ## Engineering Design & Manufacturing: 
 
 <p float="left">
- - Ansys, Autodesk, CAD/CAM, CATIA V5, Creo, GD&T, PLC, Solidworks
+ - Ansys, AutoCAD, Autodesk, CAD/CAM/CAE, CATIA V5, Creo, DFM, DFA, DFX, GD&T, PLC, Solidworks
 </p>
 
 ## Programming Languages & Frameworks:
@@ -63,20 +66,25 @@
 ## TECHNICAL EXPERTISE.
 
 - Artificial Intelligence
+- Automation and Manufacturing
 - Computer Vision
 - Control Systems
 - Deep Learning
 - Deep Reinforcement Learning
+- Digital Twins
 - Embedded Firmware Software & Hardware Development
 - Embedded Systems
 - Hardware Development
 - Kinematic & Dynamic Systems
 - Linear Systems
 - Machine Learning
+- Motion Planning
 - Neural Network
 - Non–Linear Systems
 - Path Planning & Navigation
 - Power Electronics
+- Rapid Prototyping
+- Reverse Engineering
 - Simultaneous Localization and Mapping
 - Software Programming.
 
@@ -329,8 +337,11 @@
 - Applied Project Topic: Remote-Control of an Off-Road Automated Vehicle over the 5G-Network.
 
 - Funded by ASU Master’s Opportunity for Research in Engineering (MORE) Program for Spring 2024.
-- Developing a control system for an automated off-road vehicle (Jeep Grand Cherokee) powered by 5G technology by utilizing Matlab/Simulink/ROS for system integration, interfacing the vehicle’s control units and   sensors with New Eagles drive-by-wire system, dSPACE MicroAutoBox II, and Swift Navigation GNSS GPS500 via CAN Bus.
-- Incorporating an intuitive joystick-based remote control and monitoring system to enable precise, real-time vehicle maneuvering, thereby elevating the autonomous driving experience, and integrating a camera      for live monitoring and feedback.
+- Developing a control system for an automated off-road vehicle (Jeep Grand Cherokee) powered by 5G technology by utilizing Matlab/Simulink/ROS for system integration, interfacing the vehicle’s control units and 
+  sensors with New Eagles drive-by-wire system, dSPACE MicroAutoBox II, and Swift Navigation GNSS GPS500 via CAN Bus, and incorporating an HMI display for real-time monitoring and interaction.
+- Incorporating an intuitive joystick-based remote control and monitoring system to enable precise, real-time vehicle maneuvering, thereby elevating the autonomous driving experience, and integrating a camera 
+  for live monitoring and feedback.
+- Engineered the hardware mounts and constructed a rig to support all the hardware components using SolidWorks.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
