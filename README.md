@@ -137,35 +137,36 @@
 - Type of Work: On–site
 - Employment Duration: August 2023 – December 2023
 
-- As a Graduate Service Assistant (GSA), I had the opportunity to work closely with two leading figures in the field of Robotics and Autonomous systems. One served as the Program Chair of Robotics and Autonomous   Systems, now holding the position of Associate Director and Professor. The second holds the esteemed position of Associate Dean and President's Professor. Under their mentorship, I played a significant role in 
-  educating and mentoring 115 students across two pivotal courses: Robotics Systems - 1 and Mechatronic Systems. My teaching encompassed foundational elements of Python programming and (ROS), expanding to 
-  include simulations using tools such as RoboDK and Polyscope.
+- As a Graduate Service Assistant (GSA), I collaborated closely with two prominent academics in robotics and autonomous systems. These collaborations occurred within their respective roles: one as the Program 
+  Chair of Robotics and Autonomous Systems, later Associate Director and Professor, and the other as Associate Dean and President's Professor. My responsibilities included teaching and mentoring 115 students in 
+  two courses, "Robotics Systems - 1" and "Mechatronic Systems". The curriculum I delivered covered essential Python programming and Robotics Operating System (ROS), along with simulation tools like RoboDK and 
+  Polyscope.
 
-- My contributions were particularly notable in the development and execution of two projects that significantly enhanced the student’s hands-on learning experience. The first project, "Advanced Robotics 
-  Automation, Optimization, and Programming of an Elephant Robotics MYCOBOT. This project concentrated on tasks such as arm calibration, forward and inverse kinematics, color recognition, and YOLO object 
-  detection. I developed a Python controller for Elephant Robotics, allowing the robot to engage in and autonomously reset tic-tac-toe games with humans. The second project, "Advanced Robotic Manipulation and 
-  Programming of a Universal Robot (UR3e/UR5e) Series," catered to both courses and centered on robotic manipulation, enhancing spatial dynamics, precision, gripper calibration, and conducting tests in 
-  navigation, straightness, and repeatability. It improved processes in pick-and-place palletizing and flashlight assembly, fostering a deeper understanding of robotic manipulations among the students.
+- My work was instrumental in designing and implementing two key projects aimed at enhancing hands-on learning in robotics. The first project involved integrating artificial intelligence with a 6-DOF MYCOBOT 
+  (280) from Elephant Robotics, focusing on calibration, kinematics, color recognition, and object detection. I created a Python-based controller for the robot, enabling it to play and autonomously reset tic- 
+  tac-toe games with participants. The second project involved advanced programming and system integration for collaborative robots (COBOTS) in manufacturing automation, utilizing the 6-DOF Universal Robots 
+  (UR3e/UR5e) series. This project addressed robotic manipulation, spatial dynamics, precision, and conducted tests in navigation and repeatability, applied in tasks like palletizing and assembly.
 
-- These initiatives enriched students practical robotics skills. My role involved curating the curriculum and managing the high-tech lab, ensuring access to the latest technology and learning methods.
+- These projects contributed to improving student's understanding and skills in robotics. Additionally, I was responsible for curating the curriculum and managing a high-tech laboratory, ensuring students had 
+  access to current technology and educational resources.
 
-- Project 1: Advanced Robotics Automation, Optimization and Programming of an Elephant Robotics MYCOBOT. 
+- Details of these activities and other contributions are documented in my GitHub Profile, Portfolio and YouTube Channel.
 
-- YouTube - [Advanced Robotics Automation, Optimization and Programming of an Elephant Robotics MyCobot](https://www.youtube.com/watch?v=3d2UNpf4clo) 
+- Project 1: Advanced Robotic Systems and Artificial Intelligence Integration using a 6-DOF MYCOBOT (280) by Elephant Robotics.
 
-- GitHub - [Advanced Robotics Automation, Optimization and Programming of an Elephant Robotics MyCobot](https://github.com/RohitMenon120192/Advanced-Robotics-Automation--Optimization-and-Programming-of-an-Elephant-Robotics-MYCOBOT)
+- YouTube - [Advanced Robotic Systems and Artificial Intelligence Integration using a 6-DOF MYCOBOT (280) by Elephant Robotics](https://www.youtube.com/watch?v=3d2UNpf4clo) 
 
-- DOBOT Robot Programming.
+- GitHub - [Advanced Robotic Systems and Artificial Intelligence Integration using a 6-DOF MYCOBOT (280) by Elephant Robotics](https://github.com/RohitMenon120192/Advanced-Robotics-Automation--Optimization-and-Programming-of-an-Elephant-Robotics-MYCOBOT)
+
+- Project 2: Advanced Programming and System Integration of Collaborative Robots (COBOTS) in Manufacturing Automation using a 6-DOF Universal Robots (UR3e/UR5e) Series.
+
+- YouTube - [Advanced Programming and System Integration of Collaborative Robots (COBOTS) in Manufacturing Automation using a 6-DOF Universal Robots (UR3e/UR5e) Series](https://www.youtube.com/watch?v=SNUjmYmcSq4)
+
+- GitHub - [Advanced Programming and System Integration of Collaborative Robots (COBOTS) in Manufacturing Automation using a 6-DOF Universal Robots (UR3e/UR5e) Series](https://github.com/RohitMenon120192/Advanced-Robotic-Manipulation-and-Programming-of-an-Universal-Robot)
+
+- - DOBOT Robot Programming.
 
 - YouTube - [DOBOT Robot Programming](https://www.youtube.com/watch?v=6jzuxFe1-vU)
-
-- Project 2: Advanced Robotic Manipulation and Programming: A Hands-On Exploration with Universal Robots UR5/CB-3 Series.
-
-- Advanced Robotic Manipulation and Programming of a Universal Robot (UR3e/UR5e) Series.
-
-- YouTube - [Advanced Robotic Manipulation and Programming of a Universal Robot (UR3e/UR5e) Series](https://www.youtube.com/watch?v=SNUjmYmcSq4)
-
-- GitHub - [Advanced Robotic Manipulation and Programming of a Universal Robot (UR3e/UR5e) Series](https://github.com/RohitMenon120192/Advanced-Robotic-Manipulation-and-Programming-of-an-Universal-Robot)
 
 - Job Position: Product Engineer
 - Company: Xdroid Prototyping Technologies LLP
