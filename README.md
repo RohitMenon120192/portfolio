@@ -143,9 +143,10 @@
   Polyscope.
 
 - My work was instrumental in designing and implementing two key projects aimed at enhancing hands-on learning in robotics. The first project involved integrating artificial intelligence with a 6-DOF MYCOBOT 
-  (280) from Elephant Robotics, focusing on calibration, kinematics, color recognition, and object detection. I created a Python-based controller for the robot, enabling it to play and autonomously reset tic- 
-  tac-toe games with participants. The second project involved advanced programming and system integration for collaborative robots (COBOTS) in manufacturing automation, utilizing the 6-DOF Universal Robots 
-  (UR3/e and UR5/CB-3) series. This project addressed robotic manipulation, spatial dynamics, precision, and conducted tests in navigation and repeatability, applied in tasks like palletizing and assembly.
+  (280) from Elephant Robotics, focusing on calibration and manipulation, forwars kinematics and inverse kinematics, color recognition, and YOLO object detection. I created a Python-based controller for the 
+  robot, enabling it to play and autonomously reset tic-tac-toe games with participants. The second project involved advanced programming and system integration for collaborative robots (COBOTS) in manufacturing 
+  automation, utilizing the 6-DOF Universal Robots (UR3/e and UR5/CB-3) series. This project addressed robotic manipulation, spatial dynamics, precision, and conducted tests in navigation and repeatability, 
+  applied in tasks like palletizing and assembly.
 
 - These projects contributed to improving student's understanding and skills in robotics. Additionally, I was responsible for curating the curriculum and managing a high-tech laboratory, ensuring students had 
   access to current technology and educational resources.
