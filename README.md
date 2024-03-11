@@ -179,9 +179,9 @@
 
 - GitHub - [Advanced Programming and System Integration of Collaborative Robots (COBOTS) in Manufacturing Automation using a 6-DOF Universal Robots (UR3/e and UR5/CB-3) Series](https://github.com/RohitMenon120192/Advanced-Robotic-Manipulation-and-Programming-of-an-Universal-Robot)
 
-- - DOBOT Robot Programming.
+- - Programming of an DOBOT Robots (Magician Cobot).
 
-- YouTube - [DOBOT Robot Programming](https://www.youtube.com/watch?v=6jzuxFe1-vU)
+- YouTube - [Programming of an DOBOT Robots (Magician Cobot)](https://www.youtube.com/watch?v=6jzuxFe1-vU)
 
 - Job Position: Product Engineer
 - Company: Xdroid Prototyping Technologies LLP
