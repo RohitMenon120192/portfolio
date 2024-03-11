@@ -190,7 +190,7 @@
 
 - Spearheaded the development of innovative products and systems focusing on cutting-edge 3D printing and additive manufacturing technologies, including rapid prototyping and reverse engineering.
 - Designed and developed custom FDM, SLA, SLS 3D printers tailored to client specifications and integrated a PLC system into an industrial 3D printer.
-- Engineered a Concept SpeedGate for the UAE Ministry and a Real-Time Thermal and Humidity Control System for the Indian Space Research Organization's Human Space Flight Centre.
+- Engineered a Concept SpeedGate for the UAE Ministry and Deveoped a Real-Time Thermal and Humidity Control System for the Indian Space Research Organization's Human Space Flight Centre.
 - Led the development of innovative dual nozzle 3D printers, including one specialized for edible chocolate production, delivering tangible value to clients.
 - Engineered a specialized 3D printer for knee replacement surgery, enabling hospitals to create custom knee holder prints for individual patients.
 - Ensured comprehensive documentation to uphold project integrity and foster transparency and collaboration within the engineering team.
