@@ -152,6 +152,18 @@
 
 - Details of these activities and other contributions are documented in my GitHub Profile, Portfolio and YouTube Channel.
 
+- Additionally, I played a key role in organizing and participating in an event at the Robotics Automation and Rapid Prototyping Lab, which focused on leveraging technology for industrial manufacturing 
+  automation. The highlight of the event was the simultaneous operation of 15 robotic arms, a spectacle that underscored the significance of advanced manufacturing technologies.
+- This memorable showcase, known as the Manufacturing Automation Technology Open House, welcomed over 60 students from various fields and campuses, alongside a delightful robotic dog, making the event even more 
+  engaging.
+- One of the standout moments was the opportunity to present our newest collection of robotic arms, which are ideally suited for a wide array of manufacturing tasks. Our team of graduate students also took great 
+  pleasure in instructing attendees on programming collaborative robots (cobots) for effective teamwork in the workspace.
+- The Open House featured an impressive array of technologies, from CNC machines and a robotic arm specialized in welding, to five distinct types of robots - not to mention the presence of a robotic dog!
+
+- Robotics Automation and Rapid Prototyping Lab - Technology for Automation in Industrial Manufacturing.
+
+- YouTube - [Robotics Automation and Rapid Prototyping Lab - Technology for Automation in Industrial Manufacturing](https://www.youtube.com/watch?v=ppzwrawX35c)
+
 - Project 1: Advanced Robotic Systems and Artificial Intelligence Integration using a 6-DOF MYCOBOT (280) by Elephant Robotics.
 
 - YouTube - [Advanced Robotic Systems and Artificial Intelligence Integration using a 6-DOF MYCOBOT (280) by Elephant Robotics](https://www.youtube.com/watch?v=3d2UNpf4clo) 
