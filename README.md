@@ -145,7 +145,7 @@
 - My work was instrumental in designing and implementing two key projects aimed at enhancing hands-on learning in robotics. The first project involved integrating artificial intelligence with a 6-DOF MYCOBOT 
   (280) from Elephant Robotics, focusing on calibration, kinematics, color recognition, and object detection. I created a Python-based controller for the robot, enabling it to play and autonomously reset tic- 
   tac-toe games with participants. The second project involved advanced programming and system integration for collaborative robots (COBOTS) in manufacturing automation, utilizing the 6-DOF Universal Robots 
-  (UR3e/UR5e) series. This project addressed robotic manipulation, spatial dynamics, precision, and conducted tests in navigation and repeatability, applied in tasks like palletizing and assembly.
+  (UR3/e and UR5/CB-3) series. This project addressed robotic manipulation, spatial dynamics, precision, and conducted tests in navigation and repeatability, applied in tasks like palletizing and assembly.
 
 - These projects contributed to improving student's understanding and skills in robotics. Additionally, I was responsible for curating the curriculum and managing a high-tech laboratory, ensuring students had 
   access to current technology and educational resources.
@@ -170,11 +170,11 @@
 
 - GitHub - [Advanced Robotic Systems and Artificial Intelligence Integration using a 6-DOF MYCOBOT (280) by Elephant Robotics](https://github.com/RohitMenon120192/Advanced-Robotics-Automation--Optimization-and-Programming-of-an-Elephant-Robotics-MYCOBOT)
 
-- Project 2: Advanced Programming and System Integration of Collaborative Robots (COBOTS) in Manufacturing Automation using a 6-DOF Universal Robots (UR3e/UR5e) Series.
+- Project 2: Advanced Programming and System Integration of Collaborative Robots (COBOTS) in Manufacturing Automation using a 6-DOF Universal Robots (UR3/e and UR5/CB-3) Series.
 
-- YouTube - [Advanced Programming and System Integration of Collaborative Robots (COBOTS) in Manufacturing Automation using a 6-DOF Universal Robots (UR3e/UR5e) Series](https://www.youtube.com/watch?v=SNUjmYmcSq4)
+- YouTube - [Advanced Programming and System Integration of Collaborative Robots (COBOTS) in Manufacturing Automation using a 6-DOF Universal Robots (UR3/e and UR5/CB-3) Series](https://www.youtube.com/watch?v=SNUjmYmcSq4)
 
-- GitHub - [Advanced Programming and System Integration of Collaborative Robots (COBOTS) in Manufacturing Automation using a 6-DOF Universal Robots (UR3e/UR5e) Series](https://github.com/RohitMenon120192/Advanced-Robotic-Manipulation-and-Programming-of-an-Universal-Robot)
+- GitHub - [Advanced Programming and System Integration of Collaborative Robots (COBOTS) in Manufacturing Automation using a 6-DOF Universal Robots (UR3/e and UR5/CB-3) Series](https://github.com/RohitMenon120192/Advanced-Robotic-Manipulation-and-Programming-of-an-Universal-Robot)
 
 - - DOBOT Robot Programming.
 
