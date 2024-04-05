@@ -58,7 +58,7 @@
 
 ## Tools & Technologies: 
 <p float="left">
-- Arduino IDE, Automation Studio, Autoware, Blender3D, Ultimaker Cura, Unreal Engine
+- Arduino IDE, Automation Studio, Autoware, CAN Communication, Blender3D, Ultimaker Cura, Unreal Engine
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
