@@ -6,9 +6,9 @@
 
 ## PROFESSIONAL BIO.
 
-- With a robust foundation of 7 years in the industry, I embody a comprehensive blend of expertise across mechanical design and systems, coding, embedded systems, controls, automation, and manufacturing. My 
-  proficiency is rooted in the artful integration of mechanical and robotic systems, coupled with a seamless fusion of hardware and software, underscored by a strong track record in problem-solving, 
-  communication, and teamwork. I am deeply committed to leveraging my technical skills and collaborative work ethic to propel the company’s mission towards a sustainable future.
+- With a robust foundation of 7 years in the industry, I offer a comprehensive blend of expertise across mechanical design, programming, embedded systems, controls, automation, manufacturing, and as an 
+  autonomous systems aficionado. My proficiency lies in the skillful integration of mechanical and robotic systems, with hardware and software development. This expertise is underscored by a strong track record 
+  in problem-solving, communication, and teamwork. I am deeply committed to leveraging my technical skills and collaborative work ethic to advance the company's mission towards a sustainable future.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
