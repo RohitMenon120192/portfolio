@@ -6,9 +6,9 @@
 
 ## PROFESSIONAL BIO.
 
-- With a robust foundation of 7 years in the industry, I offer a comprehensive blend of expertise across mechanical design, programming, embedded systems, controls, automation, manufacturing, and as an 
-  autonomous systems aficionado. My proficiency lies in the skillful integration of mechanical and robotic systems, with hardware and software development. This expertise is underscored by a strong track record 
-  in problem-solving, communication, and teamwork. I am deeply committed to leveraging my technical skills and collaborative work ethic to advance the company's mission towards a sustainable future.
+- With a robust foundation of 7 years in the industry, a comprehensive blend of expertise is offered across mechanical design, programming, embedded systems, controls, automation, manufacturing, and as an 
+  aficionado of autonomous systems. Proficiency lies in the skillful integration of mechanical and robotic systems with hardware and software development. This expertise is underscored by a strong track record 
+  in problem-solving, communication, and teamwork. Deeply committed to leveraging technical skills and collaborative work ethic to advance the company's mission towards a sustainable future.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,22 +43,22 @@
 ## Engineering Design & Manufacturing: 
 
 <p float="left">
- - Ansys, AutoCAD, Autodesk, CAD/CAM/CAE, CATIA V5, Creo, DFM, DFA, DFX, GD&T, PLC, Solidworks
+ - Ansys, AutoCAD, Autodesk Fusion 360, Blender3D, CATIA, Creo, Geometric Dimensioning & Tolerancing (GD&T), Programmable Logic Controller (PLC), Solidworks.
 </p>
 
 ## Programming Languages & Frameworks:
 <p float="left">
-- C, C++, Docker, Embedded C, Linux, Matlab & Simulink, Python, ROS, ROS2
+- C, C++, Docker, Embedded C, Linux, Matlab & Simulink, Python, ROS, ROS2.
 </p>
 
 ## Libraries & Simulations: 
 <p float="left">
-- CARLA, CFD, Gazebo, OpenCV, PyTorch, TensorFlow, Visual Studio Code
+- CARLA, Gazebo, OpenCV, PyTorch, TensorFlow.
 </p>
 
 ## Tools & Technologies: 
 <p float="left">
-- Arduino IDE, Automation Studio, Autoware, CAN Communication, Blender3D, Ultimaker Cura, Unreal Engine
+- Arduino IDE, Automation Studio, Autoware, Controller Area Network (CAN) Communication, Ultimaker Cura, Unreal Engine.
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
