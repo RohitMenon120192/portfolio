@@ -6,7 +6,7 @@
 
 ## PROFESSIONAL BIO.
 
-- With a robust foundation of 6 years in the industry, a comprehensive blend of expertise is offered across mechanical design, programming, embedded systems, controls, automation, manufacturing, and as an 
+- With a robust foundation of 6+ years in the industry, a comprehensive blend of expertise is offered across mechanical design, programming, embedded systems, controls, automation, manufacturing, and as an 
   aficionado of autonomous systems. Proficiency lies in the skillful integration of mechanical and robotic systems with hardware and software development. This expertise is underscored by a strong track record 
   in problem-solving, communication, and teamwork. Deeply committed to leveraging technical skills and collaborative work ethic to advance the company's mission towards a sustainable future.
 
