@@ -351,7 +351,7 @@
 
 - Selected for the prestigious Master’s Opportunity for Research in Engineering (MORE) program, this role primarily focuses on pioneering research in the remote-control of off-road automated vehicles utilizing     the advanced capabilities of the 5G network. The project aims to blend cutting-edge communication technology with innovative vehicular automation to enhance off-road navigation and control systems.
 
-- Applied Project Topic: Remote-Control of an Off-Road Automated Vehicle over the 5G-Network.
+- Applied Project Topic: Remote-Control of an Off-Road Automated Vehicle over the 5G-Network for Agriculture Applications.
 
 - Funded by ASU Master’s Opportunity for Research in Engineering (MORE) Program for Spring 2024.
 - Developing a control system for an automated off-road vehicle (Jeep Grand Cherokee) powered by 5G technology by utilizing Matlab/Simulink/ROS for system integration, interfacing the vehicle’s control units and 
@@ -359,6 +359,10 @@
 - Incorporating an intuitive joystick-based remote control and monitoring system to enable precise, real-time vehicle maneuvering, thereby elevating the autonomous driving experience, and integrating a camera 
   for live monitoring and feedback.
 - Engineered the hardware mounts and constructed a rig to support all the hardware components using SolidWorks.
+
+- Link - [Fulton-Forge, Remote-Control of an Off-Road Automated Vehicle over the 5G-Network for Agriculture Applications.](https://forge.engineering.asu.edu/participant/menon-rohit/)
+
+- YouTube - [Fulton-Forge, Remote-Control of an Off-Road Automated Vehicle over the 5G-Network for Agriculture Applications.](https://www.youtube.com/watch?v=bnweakWGP3U)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
