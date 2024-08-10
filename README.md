@@ -312,7 +312,7 @@
 
 - GitHub -
 
-- Learning-Based Adaptive Model Predictive Control for a Four-Wheel Vehicle.
+- •	Learning-Based Adaptive Control using Reinforcement Learning with Model Predictive Control.
 - To develop a more responsive and adaptive vehicle control system that improves handling and stability by learning from and adapting to various driving conditions.
 
 - GitHub - [Learning Based Adaptive MPC for a four–wheel vehicle applying Reinforcement Learning](https://github.com/RohitMenon120192/Learning-Based-Adaptive-MPC-for-a-four-wheel-vehicle-applying-Reinforcement-Learning)
