@@ -308,7 +308,7 @@
 - Automated Sorting System with PLC and Cobot Integration.
 - To automate the sorting process in manufacturing by integrating PLCs and cobots, improving efficiency and accuracy in sorting operations.
 
-- YouTube - 
+- YouTube - [Automated Sorting System with PLC and Cobot Integration](https://www.youtube.com/shorts/VAe2jkmHeoY) 
 
 - GitHub -
 
