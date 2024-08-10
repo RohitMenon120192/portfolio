@@ -6,28 +6,7 @@
 
 ## PROFESSIONAL BIO.
 
-- With a robust foundation of 6+ years in the industry, a comprehensive blend of expertise is offered across mechanical design, programming, embedded systems, controls, automation, manufacturing, and as an 
-  aficionado of autonomous systems. Proficiency lies in the skillful integration of mechanical and robotic systems with hardware and software development. This expertise is underscored by a strong track record 
-  in problem-solving, communication, and teamwork. Deeply committed to leveraging technical skills and collaborative work ethic to advance the company's mission towards a sustainable future.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## About Rohit Menon.
-
-- My journey through the world of engineering and robotics has been both exhilarating and incredibly rewarding. It all started with a genuine fascination for how things work, leading me into the field of 
-  mechanical engineering. There, I fell in love with the process of designing and manufacturing, discovering the sheer joy of turning abstract ideas into tangible, working systems. It was challenging, sure, but 
-  seeing my designs come to life was thrilling.
-
-- As my career progressed, I couldn't help but be drawn to the next frontier: robotics and autonomous systems. It felt like a natural step, fueled by my curiosity to explore how much further we could push 
-  technology. 
-  Learning to code and getting to grips with embedded systems felt like unlocking a new level of creativity. I was hooked.
-
-- My passion didn't stop there. I decided to deepen my expertise with a master's in robotics and autonomous systems, focusing on systems engineering. Diving into machine learning, deep reinforcement learning, 
-  convolutional neural networks, and computer vision wasn't easy. It required a lot of late nights and moments of frustration, but it was worth it. Each project, each breakthrough, felt like a victory, opening 
-  my eyes to the incredible potential of autonomous systems.
-
-- I'm not just saying this because it sounds good, I truly am passionate about this stuff. My journey from mechanical engineering to robotics isn't just a career path, it's a reflection of my genuine passion for 
-  innovation and the endless possibilities that technology brings. It's been a challenging journey, but honestly, I can't imagine doing anything else.
+- With over 6 years of industry experience, I excel in integrating mechanical and robotic systems with hardware and software development, focusing on autonomous systems. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -43,7 +22,8 @@
 ## Engineering Design & Manufacturing: 
 
 <p float="left">
- - Ansys, AutoCAD, Autodesk Fusion 360, Blender3D, CATIA, Creo, Geometric Dimensioning & Tolerancing (GD&T), Programmable Logic Controller (PLC), Solidworks.
+ - Ansys, AutoCAD, Autodesk Fusion 360, Blender3D, CATIA, Creo, Factory Acceptance Testing (FAT), Factory Layout Design, Finite Element Analysis (FEA), Geometric Dimensioning & Tolerancing (GD&T), Process 
+   Failure Modes and Effects Analysis (PFMEA), Programmable Logic Controller (PLC), Solidworks.
 </p>
 
 ## Programming Languages & Frameworks:
@@ -53,12 +33,12 @@
 
 ## Libraries & Simulations: 
 <p float="left">
-- CARLA, Gazebo, OpenCV, PyTorch, TensorFlow.
+- CARLA, Gazebo, Isaac Sim, NumPy, Omniverse, OpenCV, PyTorch, TensorFlow.
 </p>
 
 ## Tools & Technologies: 
 <p float="left">
-- Arduino IDE, Automation Studio, Autoware, Controller Area Network (CAN) Communication, Ultimaker Cura, Unreal Engine.
+- Arduino IDE, Automation Studio, Automotive Network Architecture, Autoware, CI/CD, Controller Area Network (CAN) Communication, Unreal Engine, Vehicle Integration.
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -117,7 +97,7 @@
 ## EDUCATION.
 
 - Master of Science - Robotics and Autonomous Systems in Systems Engineering
-- 08/2022 – 05/2024 [Expected]
+- 08/2022 – 05/2024
 - Ira A. Fulton Schools of Engineering at Arizona State University
 - GPA: 3.96/4.0
 - AZ, USA
@@ -131,11 +111,33 @@
                		
 ## PROFESSIONAL EXPERIENCE.
 
+- Job Position: Industrial Eningeer (Automation)
+- Company: Trinity Frozen Foods
+- Location: Pembroke, North Carolina, USA
+- Type of Work: On–site
+- Employment Duration: June 2024 - Present
+
+- About the company:
+
+- Trinity Frozen Foods is an emerging player in the food processing industry, specializing in premium frozen sweet potato fries, available in both organic and non-GMO varieties. The market for these high-end 
+  products was valued at $1.62 billion in 2024 and is projected to expand to $2.65 billion within the next decade. This anticipated growth underscores the increasing consumer demand for diverse and healthier 
+  snack alternatives.
+
+- Key Achievements:
+
+- Currently managing the setup, FAT (Factory Acceptance Test), operation, maintenance, PFMEA (Process Failure Modes and Effects Analysis), and commissioning of two automation machines, a case packer and a 
+  palletizer.
+-	Currently working on the Cognex vision system for the detection and sorting of products, enhancing quality control.
+-	Estimated to save $17,280 monthly through headcount reduction, which will be achieved after establishing system interlocks among 3 key pieces of equipment.
+-	Troubleshoot and resolve issues in mechanical and electrical components, including PLCs, reducing downtime by 16%.
+
 - Job Position: Graduate Service Assistant - Lab Assistant/Grader with a focus on two courses (Robotic System - 1 and Mechatronic Systems)  
 - Company: Ira A. Fulton Schools of Engineering at Arizona State University
 - Location: Mesa, Arizona, USA
 - Type of Work: On–site
 - Employment Duration: August 2023 – December 2023
+
+- Key Achievements:
 
 - As a Graduate Service Assistant (GSA), I collaborated closely with two prominent academics in robotics and autonomous systems. These collaborations occurred within their respective roles: one as the Program 
   Chair of Robotics and Autonomous Systems, later Associate Director and Professor, and the other as Associate Dean and President's Professor. My responsibilities included teaching and mentoring 115 students in 
@@ -212,7 +214,6 @@
 - Engineered a specialized 3D printer for knee replacement surgery, enabling hospitals to create custom knee holder prints for individual patients.
 - Ensured comprehensive documentation to uphold project integrity and foster transparency and collaboration within the engineering team.
 
-
 - Job Position: Mechanical Engineer
 - Company: Flux Auto (Autonomous Vehicles)
 - Location: Bengaluru, Karnataka, India 
@@ -283,53 +284,69 @@
 
 ## ACADEMIC PROJECTS.
 
-- Driver Monitoring System.
+- Driver Monitoring System for Embedded Devices
+- To enhance driver safety by detecting and responding to signs of driver fatigue or distraction using real-time video analysis.
 
 - YouTube - [Driver Monitoring System](https://www.youtube.com/watch?v=vjYG8DtV0jg)
 
 - GitHub - [Driver Monitoring System](https://github.com/RohitMenon120192/Driver_Monitoring_System)
 
 - Word Recognition using Machine Learning on Arduino.
+- To implement a compact and efficient voice recognition system for triggering actions based on specific spoken words, useful for various embedded applications.
 
 - YouTube - [Word Recognition using Machine Learning on Arduino](https://www.youtube.com/watch?v=0_Cdz9fnFi4)
 
 - GitHub - [Word Recognition using Machine Learning on Arduino](https://github.com/RohitMenon120192/Word-Recognition-using-Machine-Learning-on-Arduino)
 
 - Posture Detection using Embedded Machine Learning.
+- To monitor and analyze sleeping postures in real-time, providing data that can help improve sleep quality and health through advanced posture detection.
 
 - YouTube - [Posture Detection using Embedded Machine Learning](https://www.youtube.com/watch?v=ojKLB7J1U3k)
 
 - GitHub - [Posture Detection using Embedded Machine Learning](https://github.com/RohitMenon120192/Posture-Detection-using-Embedded-Machine-Learning)
 
-- Learning Based Adaptive MPC for a four–wheel vehicle applying Reinforcement Learning.
+- Automated Sorting System with PLC and Cobot Integration.
+- To automate the sorting process in manufacturing by integrating PLCs and cobots, improving efficiency and accuracy in sorting operations.
+
+- YouTube - 
+
+- GitHub -
+
+- Learning-Based Adaptive Model Predictive Control for a Four-Wheel Vehicle.
+- To develop a more responsive and adaptive vehicle control system that improves handling and stability by learning from and adapting to various driving conditions.
 
 - GitHub - [Learning Based Adaptive MPC for a four–wheel vehicle applying Reinforcement Learning](https://github.com/RohitMenon120192/Learning-Based-Adaptive-MPC-for-a-four-wheel-vehicle-applying-Reinforcement-Learning)
 
 - Advanced Control and Navigation of Parrot Mambo Mini Drone.
+- To develop a more responsive and adaptive vehicle control system that improves handling and stability by learning from and adapting to various driving conditions.
 
 - YouTube - [Advanced Control and Navigation of Parrot Mambo Mini Drone](https://www.youtube.com/watch?v=4SRDtLpXJ7o)
 
 - GitHub - [Advanced Control and Navigation of Parrot Mambo Mini Drone](https://github.com/RohitMenon120192/Advanced-Control-and-Navigation-of-Parrot-Mambo-Mini-Drone)
 
 - Ultrasonic Radar.
+- To create a cost-effective and reliable system for detecting and mapping objects within a 360-degree range, applicable in various fields such as robotics and security.
 
 - YouTube - [Ultrasonic Radar](https://www.youtube.com/watch?v=5SPq0QYEfzU)
 
 - GitHub - [Ultrasonic Radar](https://github.com/RohitMenon120192/Ultrasonic-Radar)
 
 - Vertical Drawing Robot.
+- To build a robot capable of drawing complex images on vertical surfaces with high precision, demonstrating advanced control and path planning techniques.
 
 - YouTube - [Vertical Drawing Bot](https://www.youtube.com/watch?v=6fa-gCx74Fg)
 
 - GitHub - [Vertical Drawing Robot](https://github.com/RohitMenon120192/Vertical-Drawing-Bot)
 
 - Webcam Controlled Rover.
+- To develop a rover that can autonomously navigate and manipulate objects based on real-time visual input from a webcam, showcasing image processing and autonomous control capabilities.
 
 - YouTube - [Webcam Controlled Rover](https://www.youtube.com/watch?v=cCVUTY2_NfM)
 
 - GitHub - [Webcam Controlled Rover](https://github.com/RohitMenon120192/Webcam-Controlled-Rover)
 
 - Self Balancing Motorcycle.
+- To design and implement a self-balancing motorcycle that maintains stability and performs controlled maneuvers, demonstrating principles of dynamic balance and control in two-wheeled vehicles.
 
 - YouTube - [Self–Balancing Motorcycle](https://www.youtube.com/watch?v=PT3bBPZd–Gk)
 
@@ -339,26 +356,42 @@
 
 ## RESEARCH PROJECTS.
 
+- Job Position: Researcher (Volunteer)
+- Company: Ira A. Fulton Schools of Engineering at Arizona State University
+- Location: Mesa, Arizona, USA
+- Type of Work: On–site
+- Employment Duration: May 2024 - Present
+
+- Robotics and Autonomous Systems Laboratory
+- Prof: Dr. Sangram Redkar - Associate Director and Professor
+
+- Project Topic: Development of a Real-Time Digital Twin for Glove Compartment Automation.
+  
+- Currently integrating the ZED 2i stereoscopic camera and Livox MID-70 LiDAR for advanced sensor fusion to accurately detect and track transparent objects. Employing two UR5 robots with Robotiq 2F-85 grippers 
+  to execute precise and complex tasks, including pick and place operations, grainy material scooping, and careful manipulation tasks without displacing contents.
+-	Utilizing Wandel scripts for real-time control of the manipulators, incorporating camera and LiDAR fusion point cloud data for enhanced detection and tracking capabilities. Implementing in-house multimodal 
+  large language models (LLMs) for conformal coordinate prediction.
+-	Leveraging ROS, RViz with MoveIt, NVIDIA Omniverse for collaborative simulation, Isaac Sim for high-fidelity robotics simulation, and Python scripting for the real-time development and simulation of the 
+  digital twin.
+-	Utilizing the NVIDIA Jetson Nano processing device to handle computational tasks and enable efficient real-time data processing and analysis.
+
 - Job Position: Research Assistant
 - Company: Ira A. Fulton Schools of Engineering at Arizona State University
 - Location: Mesa, Arizona, USA
 - Type of Work: On–site
-- Employment Duration: January 2024 - PRESENT.
+- Employment Duration: January 2024 - May 2024
 
-- Master’s Opportunity for Research in Engineering (MORE).
-
-- Research Assistant - Dynamic Systems and Control Laboratory.
-
-- Selected for the prestigious Master’s Opportunity for Research in Engineering (MORE) program, this role primarily focuses on pioneering research in the remote-control of off-road automated vehicles utilizing     the advanced capabilities of the 5G network. The project aims to blend cutting-edge communication technology with innovative vehicular automation to enhance off-road navigation and control systems.
+- Dynamic Systems and Control Laboratory
+- Prof: Dr. Yan Chen - Assistant Professor
 
 - Applied Project Topic: Remote-Control of an Off-Road Automated Vehicle over the 5G-Network for Agriculture Applications.
 
-- Funded by ASU Master’s Opportunity for Research in Engineering (MORE) Program for Spring 2024.
-- Developing a control system for an automated off-road vehicle (Jeep Grand Cherokee) powered by 5G technology by utilizing Matlab/Simulink/ROS for system integration, interfacing the vehicle’s control units and 
-  sensors with New Eagles drive-by-wire system, dSPACE MicroAutoBox II, and Swift Navigation GNSS GPS500 via CAN Bus, and incorporating an HMI display for real-time monitoring and interaction.
-- Incorporating an intuitive joystick-based remote control and monitoring system to enable precise, real-time vehicle maneuvering, thereby elevating the autonomous driving experience, and integrating a camera 
-  for live monitoring and feedback.
-- Engineered the hardware mounts and constructed a rig to support all the hardware components using SolidWorks.
+- Funded by the ASU Master’s Opportunity for Research in Engineering (MORE) Program and nominated for the Best Research Award, this project ranked among the top 5 out of 140 projects in Spring 2024. It was also 
+  featured on the Fulton Forge Student Research Expo website and catalog.
+- Developed a robust control system for an automated off-road vehicle (Jeep Grand Cherokee) powered by 5G technology. This involves utilizing Matlab/Simulink/ROS for system integration, interfacing the vehicle’s 
+  control units and sensors with New Eagle’s drive-by-wire system, dSPACE MicroAutoBox II, and Swift Navigation GNSS GPS500 via CAN Bus, and incorporating an HMI display for real-time monitoring and interaction.
+-	Incorporated an intuitive joystick-based remote control and live-feed cameras for tele-operation and integrated an HMI (Human-Machine Interface) for real-time vehicle feedback.
+-	Designed the hardware mounts and constructed a rig to support all the hardware components using SolidWorks.
 
 - Link - [Fulton-Forge, Remote-Control of an Off-Road Automated Vehicle over the 5G-Network for Agriculture Applications.](https://forge.engineering.asu.edu/participant/menon-rohit/)
 
@@ -368,37 +401,41 @@
 
 ## TECHNICAL CERTIFICATIONS.
 
+- [Trinity Workplace Training and Safety Programs]
+
+- [Master's Opportunity for Research in Engineering (MORE) Program](https://drive.google.com/file/d/1tfg1i4zLVSD6zZ6bK-_7ObPTP9G9hQKW/view?usp=drive_link)
+
 - [Information Security Fundamentals Training](https://api.badgr.io/public/assertions/tSRLgkN4Q6uVLwaLT4n3vA?identity__email=rmenon12%40asu.edu)
 
 - [Introduction to Robotics in Microelectronics Manufacturing](https://api.badgr.io/public/assertions/8lUJgTaNTeWe1AEexoPpsQ?identity__email=rmenon12%40asu.edu)
 
-- [e–Series Core Track](https://drive.google.com/file/d/1z6k5kJSTi53manvLkoeYhC4YF2wiCscO/view?usp=drive_link)
+- [e–Series Core Track](https://drive.google.com/file/d/1XmRpsOTXwyPLHybOKFZxsXFNGjhwrXTg/view?usp=drive_link)
 
-- [The Recreational UAS Safety Test (TRUST) Completion Certificate](https://drive.google.com/file/d/1_zn4z2xZvPeoSI2hX_Nvap2d3GU6uIqX/view?usp=share_link)
+- [The Recreational UAS Safety Test (TRUST) Completion Certificate](https://drive.google.com/file/d/1-YgLIp5RKX1bBrlhc1EAXZ3fR4cRHWny/view?usp=drive_link)
 
-- [MATLAB Fundamentals](https://drive.google.com/file/d/1OBc0–Dstu7mjxqSfPrk0IcFP3nDkWMD8/view?usp=share_link)
+- [MATLAB Fundamentals](https://drive.google.com/file/d/1xcqroKLNrZIXS22SScozKbUNd46cxa91/view?usp=drive_link)
 
-- [MATLAB Programming Techniques](https://drive.google.com/file/d/1y5l4y_aZc6OutLWCwh1rH6io_SNBaEeS/view?usp=share_link)
+- [MATLAB Programming Techniques](https://drive.google.com/file/d/11wCu0KE5zNd7Rv6XxFSQYhzJgbXO5Ndt/view?usp=drive_link)
 
-- [Solving Ordinary Differential Equations with MATLAB](https://drive.google.com/file/d/1znUDPeq0Vp4jD1gbH4jAsq69qYoJBgt_/view?usp=share_link)
+- [Solving Ordinary Differential Equations with MATLAB](https://drive.google.com/file/d/1SZyMQjBY92-hkaTXgnOqhayQhpTwY1dz/view?usp=drive_link)
 
-- [MATLAB for Data Processing and Visualization](https://drive.google.com/file/d/1m8Tmpy9xJCfo38MmKxd999VhIzB6LQuJ/view?usp=share_link)
+- [MATLAB for Data Processing and Visualization](https://drive.google.com/file/d/1_JvgE_rQTTx3mKHw30lP6oxMIJil4Kjq/view?usp=drive_link)
 
-- [Machine Learning with MATLAB](https://drive.google.com/file/d/1p–rm62MgZFWJHIQpge2jSyoIvhn3r7r4/view?usp=share_link)
+- [Machine Learning with MATLAB](https://drive.google.com/file/d/17iAYyXr79XrOhP_Z8_me3BxUFkQvMePI/view?usp=drive_link)
 
-- [Deep Learning Onramp](https://drive.google.com/file/d/1Mhl7B1–6qaZ0WJb–T9ZFTsraJbKD02DS/view?usp=share_link)
+- [Deep Learning Onramp](https://drive.google.com/file/d/1RX8aFOckVGWYovN5BCyG4TRsVX0nyHZv/view?usp=drive_link)
 
-- [Reinforcement Learning Onramp](https://drive.google.com/file/d/1U5jCsP4qG1vj1SfzWTxFMiKHCoimKjAe/view?usp=share_link)
+- [Reinforcement Learning Onramp](https://drive.google.com/file/d/1fc7-P81LvaKIO9_0uJ9uEgQtyKotirz1/view?usp=drive_link)
 
-- [Simscape Onramp](https://drive.google.com/file/d/1VSlAH9WQ1BBNetCUCAB_R7w65YL0At7u/view?usp=share_link)
+- [Simscape Onramp](https://drive.google.com/file/d/1nIMPZUMeZf61ahvfdSWFkYnejSfyCBDC/view?usp=drive_link)
 
-- [Stateflow Onramp](https://drive.google.com/file/d/1aUh9gYsfnxLCwnKd_UeuYNa1D8qkPY33/view?usp=share_link)
+- [Stateflow Onramp](https://drive.google.com/file/d/1op-mangqXMHp9Vv5T97KwzB92i-KLQIe/view?usp=drive_link)
 
-- [Control Design Onramp with Simulink](https://drive.google.com/file/d/1SZvDUlIMMO5–x8rtmv5CAJGkr_eqmyyi/view?usp=share_link)
+- [Control Design Onramp with Simulink](https://drive.google.com/file/d/18VieZH8Cj716LSR5Ez2w7cYvrLx5kUoE/view?usp=drive_link)
 
-- [Image Processing with MATLAB](https://drive.google.com/file/d/1fLRw2W8_X3QQBYxUwtwiApEBDrHPxuZA/view?usp=share_link)
+- [Image Processing with MATLAB](https://drive.google.com/file/d/1fJlS1DnkXQ6_rsHebVVpKzAS1stjJvGn/view?usp=drive_link)
 
-- [Introduction to Linear Algebra with MATLAB](https://drive.google.com/file/d/1cBCqOlOCMBkN4FxexK7Hy3Sbq20MSzcS/view?usp=share_link)
+- [Introduction to Linear Algebra with MATLAB](https://drive.google.com/file/d/1jdLRwDnIHW79mCE4G1Xvj80YCrGp342V/view?usp=drive_link)
 
 - Diploma Certification in Embedded Systems and Programming
 - Embisys Labs Training Institute – Bengaluru, Karnataka, India
@@ -414,7 +451,7 @@
 - Linux Char Device Driver and Kernel Programming
 - Real–Time Operating System (RTOS)
 
-- [Certification](https://drive.google.com/file/d/1BZYTUZIqDNxd4CMtvXUu–7L5ejQ0ZFe4/view?usp=share_link)
+- [Certification](https://drive.google.com/file/d/16qSza3-Cep3aYRs2CR9CvYa27ubmx3XW/view?usp=drive_link)
 
 - Master Diploma Certification in Product Design and Analysis
 - Computer Aided Design and Drafting Centre – Bengaluru, Karnataka, India
@@ -427,7 +464,7 @@
 - Microsoft Project
 - Project Planning and Management
   
-- [Certification](https://drive.google.com/file/d/14V–XCNAGcKh0k948aWDQon134MCKQtdd/view?usp=share_link)
+- [Certification](https://drive.google.com/file/d/1JNqlDL3pywhOLp1PB_Rw4VC3u4mG7Kfk/view?usp=drive_link)
 
 - Master Diploma Certification in PC – Next
 - Indian Institute of Job Training Centre – Bengaluru, Karnataka, India
@@ -440,7 +477,7 @@
 - Red Hat Certified Engineer (RHCE)
 - Certified Wireless Network Administrator (CWNA)
   
-- [Certification](https://drive.google.com/file/d/12BqrahE–47qeKM4EBWs2K5KEub–utS93/view?usp=share_link)
+- [Certification](https://drive.google.com/file/d/1-z5leUtkuCin1_a1ktbV9S_Dtfd_mdOk/view?usp=drive_link)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -454,7 +491,7 @@
 - Application Number: 201741000649A
 - Current Status: Awaiting Complete Patent Grant (Patent Pending)
 
-- [Publication](https://drive.google.com/file/d/1CDeb_ql8WmQgk0i6attfz3rAcbuHs_Ac/view?usp=share_link)
+- [Publication](https://drive.google.com/file/d/15y16eBS3l7jWYZxEwInqt_8ONLUiCwWe/view?usp=drive_link)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
