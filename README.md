@@ -198,12 +198,12 @@
 
 - Projects:
 
-- 1.	Developed custom FDM, SLA, SLS 3D printers.
-- 2.	Engineered Dual Nozzle 3D Printers for Educational Settings.
-- 3.	Designed a Specialized 3D Printer for Crafting Edible Chocolate Creations.
-- 4.	Developed Advanced 3D Printed Prosthetics for Knee Replacement Surgeries.
-- 5.	Engineered a Concept SpeedGate for the UAE Ministry.
-- 6.	Collaborated with the Indian Space Research Organization (ISRO) - Human Space Flight Centre (HSFC) Department on a Spectrum of Endeavors, alongside Various Other Innovative Projects.
+- Developed custom FDM, SLA, SLS 3D printers.
+- Engineered Dual Nozzle 3D Printers for Educational Settings.
+- Designed a Specialized 3D Printer for Crafting Edible Chocolate Creations.
+- Developed Advanced 3D Printed Prosthetics for Knee Replacement Surgeries.
+- Engineered a Concept SpeedGate for the UAE Ministry.
+- Collaborated with the Indian Space Research Organization (ISRO) - Human Space Flight Centre (HSFC) Department on a Spectrum of Endeavors, alongside Various Other Innovative Projects.
 
 - Key Achievements:
 
@@ -226,8 +226,8 @@
 
 - Projects:
 
-- 1.	Eicher 10.90 Truck.
-- 2.	Electric Buggy (6-seater).
+- Eicher 10.90 Truck.
+- Electric Buggy (6-seater).
 
 - Key Achievements:
 
@@ -267,7 +267,7 @@
 
 - Projects:
  
-- 1.	(25MLD) Sewage Treatment Plant in Borehalli Village (Bidadi), Ramanagara District.
+- (25MLD) Sewage Treatment Plant in Borehalli Village (Bidadi), Ramanagara District.
 
 - Key Achievements:
 
