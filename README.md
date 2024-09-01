@@ -115,7 +115,7 @@
 - Company: Trinity Frozen Foods
 - Location: Pembroke, North Carolina, USA
 - Type of Work: On–site
-- Employment Duration: June 2024 - Present
+- Employment Duration: June 2024 - August 2024
 
 - About the company:
 
@@ -125,11 +125,9 @@
 
 - Key Achievements:
 
-- Currently managing the setup, FAT (Factory Acceptance Test), operation, maintenance, PFMEA (Process Failure Modes and Effects Analysis), and commissioning of two automation machines, a case packer and a 
-  palletizer.
--	Currently working on the Cognex vision system for the detection and sorting of products, enhancing quality control.
--	Estimated to save $17,280 monthly through headcount reduction, which will be achieved after establishing system interlocks among 3 key pieces of equipment.
--	Troubleshoot and resolve issues in mechanical and electrical components, including PLCs, reducing downtime by 16%.
+- Engineered the Cognex vision system for the detection and sorting of products.
+- Engineered the FANUC DR-3iB/8L Delta Robot for high-speed pick and place operations and the FANUC M-410iB/700 Palletizing Robot for heavy￾duty material handling.
+- Troubleshot and resolved issues in mechanical and electrical components, including PLCs, which reduced downtime by 16%.
 
 - Job Position: Graduate Service Assistant - Lab Assistant/Grader with a focus on two courses (Robotic System - 1 and Mechatronic Systems)  
 - Company: Ira A. Fulton Schools of Engineering at Arizona State University
