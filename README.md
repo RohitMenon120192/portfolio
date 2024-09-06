@@ -38,7 +38,7 @@
 
 ## Tools & Technologies: 
 <p float="left">
-- Arduino IDE, Automation Studio, Automotive Network Architecture, Autoware, CI/CD, Controller Area Network (CAN) Communication, Unreal Engine, Vehicle Integration.
+- Arduino IDE, Automation Studio, Automotive Network Architecture, Autoware, Controller Area Network (CAN) Communication, Unreal Engine, Vehicle Integration.
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
