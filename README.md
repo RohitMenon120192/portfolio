@@ -354,6 +354,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## RESEARCH PROJECTS.
+
 - Job Position: Researcher (Volunteer)
 - Company: Ira A. Fulton Schools of Engineering at Arizona State University
 - Location: Mesa, Arizona, USA
@@ -363,7 +364,7 @@
 - Robotics and Autonomous Systems Laboratory
 - Prof: Dr. Xi Yu - Assistant Professor
 
-- Project Topic: Autonomous Multi-Agent Blimp Swarm for Coordinated Aerial Object Retrieval.
+- Research Project Topic: Autonomous Multi-Agent Blimp Swarm for Coordinated Aerial Object Retrieval.
 
 - Designing and building a fleet of autonomous blimps capable of independent airspace navigation and communication with other blimps for swarming behavior to locate, collect, and guide helium-filled balloons through a designated goal post.
 - Implementing advanced object detection algorithms for precise tracking, collision avoidance, and autonomous balloon capture using custom nets integrated into the blimps.
@@ -379,12 +380,16 @@
 - Robotics and Autonomous Systems Laboratory
 - Prof: Dr. Sangram Redkar - Associate Director and Professor
 
-- Project Topic: Development of a Real-Time Digital Twin for Glove Compartment Automation.
+- Research Project Topic: Development of a Real-Time Digital Twin for Glove Compartment Automation.
   
 - Integrating ZED 2i stereoscopic cameras and Livox MID-70 LiDAR for advanced sensor fusion to accurately detect and track transparent objects with two UR5 robots performing complex manipulation tasks.
 - Utilizing custom in-house multimodal large language models (LLMs) for conformal coordinate prediction and enhanced decision-making, particularly in handling transparent objects.
 - Employing ROS, Gazebo, RViz with MoveIt, NVIDIA Omniverse, Isaac Sim, and Python scripting for the real-time development and simulation of the digital twin.
 - Utilizing an NVIDIA Jetson Nano for efficient real-time data processing.
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## APPLIED PROJECTS.
 
 - Job Position: Research Assistant
 - Company: Ira A. Fulton Schools of Engineering at Arizona State University
@@ -395,7 +400,7 @@
 - Dynamic Systems and Control Laboratory
 - Advisor and Prof: Dr. Yan Chen - Assistant Professor
 
-- Applied Project Topic: Remote-Control of an Off-Road Automated Vehicle over the 5G-Network for Agriculture Applications.
+- Applied Project Title: Remote-Control of an Off-Road Automated Vehicle over the 5G-Network for Agriculture Applications.
 
 - Funded by the ASU Master’s Opportunity for Research in Engineering (MORE) Program and nominated for the Best Research Award, this project ranked among the top 5 out of 140 projects in Spring 2024. It was also 
   featured on the Fulton Forge Student Research Expo website and catalog.
