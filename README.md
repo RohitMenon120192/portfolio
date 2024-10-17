@@ -1,7 +1,7 @@
 ## PORTFOLIO
 
 ## Autonomous Systems Aficionado
-## Patent Holder for a Class III Medical Device (Electromechanical Total Artificial Heart)
+## Patent Holder for a Class III Medical Device (Electromechanical - Total Artificial Implantable Heart)
 ## MORE Grant Recipient
 ## Master of Science in Robotics & Autonomous Systems in Systems Engineering
 ## Bachelor of Technology in Mechanical Engineering
@@ -524,6 +524,12 @@
 - Malayalam
 - Tamil
   
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## REFERENCES.
+
+- Available upon request.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## HOBBIES.
