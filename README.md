@@ -22,8 +22,7 @@
 ## Engineering Design & Manufacturing: 
 
 <p float="left">
- - Ansys, AutoCAD, Autodesk Fusion 360, Blender3D, CATIA, Creo, Factory Acceptance Testing (FAT), Factory Layout Design, Finite Element Analysis (FEA), Geometric Dimensioning & Tolerancing (GD&T), Process 
-   Failure Modes and Effects Analysis (PFMEA), Programmable Logic Controller (PLC), Solidworks.
+ - Ansys, AutoCAD, Autodesk Fusion 360, Blender3D, CATIA, Computational Fluid Dynamics (CFD), Creo, Factory Acceptance Testing (FAT), Factory Layout Design, Finite Element Analysis (FEA), Geometric Dimensioning & Tolerancing (GD&T), Process Failure Modes and Effects Analysis (PFMEA), Programmable Logic Controller (PLC), Solidworks.
 </p>
 
 ## Programming Languages & Frameworks:
@@ -33,12 +32,12 @@
 
 ## Libraries & Simulations: 
 <p float="left">
-- CARLA, Gazebo, Isaac Sim, NumPy, Omniverse, OpenCV, PyTorch, TensorFlow.
+- CARLA, Gazebo, Isaac Sim, NumPy, Omniverse, OpenCV, PyTorch, Scikit-learn, TensorFlow.
 </p>
 
 ## Tools & Technologies: 
 <p float="left">
-- Arduino IDE, Automation Studio, Autoware, Controller Area Network (CAN) Communication, Unreal Engine, Vehicle Integration.
+- Arduino, ARM Cortex-A, Automation Studio, Autoware, BeagleBone, Controller Area Network (CAN) Communication, Raspberry Pi, Unreal Engine, Vehicle Integration.
 </p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -128,6 +127,8 @@
 - Engineered the Cognex vision system for the detection and sorting of products.
 - Engineered the FANUC DR-3iB/8L Delta Robot for high-speed pick and place operations and the FANUC M-410iB/700 Palletizing Robot for heavy￾duty material handling.
 - Troubleshot and resolved issues in mechanical and electrical components, including PLCs, which reduced downtime by 16%.
+- Started shifts by configuring and enabling various production and packaging machines, ensuring correct setup through the (HMI) for the product and target quantity.
+- Conducted hourly quality checks, managed necessary documentation, and executed the Clean-in-Place (CIP) process weekly to uphold safety and cleanliness standards.
 
 - Job Position: Graduate Service Assistant - Lab Assistant/Grader with a focus on two courses (Robotic System - 1 and Mechatronic Systems)  
 - Company: Ira A. Fulton Schools of Engineering at Arizona State University
@@ -283,68 +284,68 @@
 ## ACADEMIC PROJECTS.
 
 - Driver Monitoring System for Embedded Devices
-- To enhance driver safety by detecting and responding to signs of driver fatigue or distraction using real-time video analysis.
+- Enhanced driver safety by detecting and responding to signs of fatigue or distraction using real-time video analysis.
 
 - YouTube - [Driver Monitoring System](https://www.youtube.com/watch?v=vjYG8DtV0jg)
 
 - GitHub - [Driver Monitoring System](https://github.com/RohitMenon120192/Driver_Monitoring_System)
 
 - Word Recognition using Machine Learning on Arduino.
-- To implement a compact and efficient voice recognition system for triggering actions based on specific spoken words, useful for various embedded applications.
+- Implemented a compact, efficient voice recognition system for triggering actions based on specific spoken words, applicable in embedded systems.
 
 - YouTube - [Word Recognition using Machine Learning on Arduino](https://www.youtube.com/watch?v=0_Cdz9fnFi4)
 
 - GitHub - [Word Recognition using Machine Learning on Arduino](https://github.com/RohitMenon120192/Word-Recognition-using-Machine-Learning-on-Arduino)
 
 - Posture Detection using Embedded Machine Learning.
-- To monitor and analyze sleeping postures in real-time, providing data that can help improve sleep quality and health through advanced posture detection.
+- Monitored and analyzed sleeping postures in real-time, providing data to improve sleep quality and health through advanced posture detection.
 
 - YouTube - [Posture Detection using Embedded Machine Learning](https://www.youtube.com/watch?v=ojKLB7J1U3k)
 
 - GitHub - [Posture Detection using Embedded Machine Learning](https://github.com/RohitMenon120192/Posture-Detection-using-Embedded-Machine-Learning)
 
 - Automated Sorting System with PLC and Cobot Integration.
-- To automate the sorting process in manufacturing by integrating PLCs and cobots, improving efficiency and accuracy in sorting operations.
+- Automated sorting in manufacturing by integrating PLCs and cobots, improving efficiency and accuracy in operations.
 
 - YouTube - [Automated Sorting System with PLC and Cobot Integration](https://www.youtube.com/shorts/VAe2jkmHeoY) 
 
 - GitHub -
 
-- •	Learning-Based Adaptive Control using Reinforcement Learning with Model Predictive Control.
-- To develop a more responsive and adaptive vehicle control system that improves handling and stability by learning from and adapting to various driving conditions.
+- Learning-Based Adaptive Control using Reinforcement Learning with Model Predictive Control.
+- Developed a responsive vehicle control system that enhances handling and stability by learning and adapting to various driving conditions.
 
 - GitHub - [Learning Based Adaptive MPC for a four–wheel vehicle applying Reinforcement Learning](https://github.com/RohitMenon120192/Learning-Based-Adaptive-MPC-for-a-four-wheel-vehicle-applying-Reinforcement-Learning)
 
 - Advanced Control and Navigation of Parrot Mambo Mini Drone.
-- To develop a more responsive and adaptive vehicle control system that improves handling and stability by learning from and adapting to various driving conditions.
+- Improved drone autonomy, enabling complex maneuvers and tasks using enhanced control algorithms and computer vision.
 
 - YouTube - [Advanced Control and Navigation of Parrot Mambo Mini Drone](https://www.youtube.com/watch?v=4SRDtLpXJ7o)
 
 - GitHub - [Advanced Control and Navigation of Parrot Mambo Mini Drone](https://github.com/RohitMenon120192/Advanced-Control-and-Navigation-of-Parrot-Mambo-Mini-Drone)
 
 - Ultrasonic Radar.
-- To create a cost-effective and reliable system for detecting and mapping objects within a 360-degree range, applicable in various fields such as robotics and security.
+- Designed a cost-effective system for detecting and mapping objects within a 360-degree range.
 
 - YouTube - [Ultrasonic Radar](https://www.youtube.com/watch?v=5SPq0QYEfzU)
 
 - GitHub - [Ultrasonic Radar](https://github.com/RohitMenon120192/Ultrasonic-Radar)
 
 - Vertical Drawing Robot.
-- To build a robot capable of drawing complex images on vertical surfaces with high precision, demonstrating advanced control and path planning techniques.
+- Built a robot capable of drawing complex images on vertical surfaces with high precision, demonstrating advanced control and path planning techniques.
 
 - YouTube - [Vertical Drawing Bot](https://www.youtube.com/watch?v=6fa-gCx74Fg)
 
 - GitHub - [Vertical Drawing Robot](https://github.com/RohitMenon120192/Vertical-Drawing-Bot)
 
 - Webcam Controlled Rover.
-- To develop a rover that can autonomously navigate and manipulate objects based on real-time visual input from a webcam, showcasing image processing and autonomous control capabilities.
+- Developed an autonomous rover capable of navigating and manipulating objects using real-time visual input from a webcam.
 
 - YouTube - [Webcam Controlled Rover](https://www.youtube.com/watch?v=cCVUTY2_NfM)
 
 - GitHub - [Webcam Controlled Rover](https://github.com/RohitMenon120192/Webcam-Controlled-Rover)
 
 - Self Balancing Motorcycle.
-- To design and implement a self-balancing motorcycle that maintains stability and performs controlled maneuvers, demonstrating principles of dynamic balance and control in two-wheeled vehicles.
+- Designed a self-balancing motorcycle that maintains stability and performs controlled maneuvers, demonstrating principles of dynamic balance in two-wheeled vehicles.
 
 - YouTube - [Self–Balancing Motorcycle](https://www.youtube.com/watch?v=PT3bBPZd–Gk)
 
@@ -353,7 +354,22 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## RESEARCH PROJECTS.
+- Job Position: Researcher (Volunteer)
+- Company: Ira A. Fulton Schools of Engineering at Arizona State University
+- Location: Mesa, Arizona, USA
+- Type of Work: On–site
+- Employment Duration: May 2024 - Present
 
+- Robotics and Autonomous Systems Laboratory
+- Prof: Dr. Xi Yu - Assistant Professor
+
+- Project Topic: Autonomous Multi-Agent Blimp Swarm for Coordinated Aerial Object Retrieval.
+
+- Designing and building a fleet of autonomous blimps capable of independent airspace navigation and communication with other blimps for swarming behavior to locate, collect, and guide helium-filled balloons through a designated goal post.
+- Implementing advanced object detection algorithms for precise tracking, collision avoidance, and autonomous balloon capture using custom nets integrated into the blimps.
+- Leveraging Python, OpenCV, and SLAM techniques to enable coordinated navigation, multi-agent communication, and efficient task execution.
+- Integrating brushless motors, ESCs, Raspberry Pi, sensors, and camera systems for fully autonomous operation in real-time balloon collection.
+  
 - Job Position: Researcher (Volunteer)
 - Company: Ira A. Fulton Schools of Engineering at Arizona State University
 - Location: Mesa, Arizona, USA
@@ -365,13 +381,10 @@
 
 - Project Topic: Development of a Real-Time Digital Twin for Glove Compartment Automation.
   
-- Currently integrating the ZED 2i stereoscopic camera and Livox MID-70 LiDAR for advanced sensor fusion to accurately detect and track transparent objects. Employing two UR5 robots with Robotiq 2F-85 grippers 
-  to execute precise and complex tasks, including pick and place operations, grainy material scooping, and careful manipulation tasks without displacing contents.
--	Utilizing Wandel scripts for real-time control of the manipulators, incorporating camera and LiDAR fusion point cloud data for enhanced detection and tracking capabilities. Implementing in-house multimodal 
-  large language models (LLMs) for conformal coordinate prediction.
--	Leveraging ROS, RViz with MoveIt, NVIDIA Omniverse for collaborative simulation, Isaac Sim for high-fidelity robotics simulation, and Python scripting for the real-time development and simulation of the 
-  digital twin.
--	Utilizing the NVIDIA Jetson Nano processing device to handle computational tasks and enable efficient real-time data processing and analysis.
+- Integrating ZED 2i stereoscopic cameras and Livox MID-70 LiDAR for advanced sensor fusion to accurately detect and track transparent objects with two UR5 robots performing complex manipulation tasks.
+- Utilizing custom in-house multimodal large language models (LLMs) for conformal coordinate prediction and enhanced decision-making, particularly in handling transparent objects.
+- Employing ROS, Gazebo, RViz with MoveIt, NVIDIA Omniverse, Isaac Sim, and Python scripting for the real-time development and simulation of the digital twin.
+- Utilizing an NVIDIA Jetson Nano for efficient real-time data processing.
 
 - Job Position: Research Assistant
 - Company: Ira A. Fulton Schools of Engineering at Arizona State University
@@ -380,7 +393,7 @@
 - Employment Duration: January 2024 - May 2024
 
 - Dynamic Systems and Control Laboratory
-- Prof: Dr. Yan Chen - Assistant Professor
+- Advisor and Prof: Dr. Yan Chen - Assistant Professor
 
 - Applied Project Topic: Remote-Control of an Off-Road Automated Vehicle over the 5G-Network for Agriculture Applications.
 
@@ -388,7 +401,7 @@
   featured on the Fulton Forge Student Research Expo website and catalog.
 - Developed a robust control system for an automated off-road vehicle (Jeep Grand Cherokee) powered by 5G technology. This involves utilizing Matlab/Simulink/ROS for system integration, interfacing the vehicle’s 
   control units and sensors with New Eagle’s drive-by-wire system, dSPACE MicroAutoBox II, and Swift Navigation GNSS GPS500 via CAN Bus, and incorporating an HMI display for real-time monitoring and interaction.
--	Incorporated an intuitive joystick-based remote control and live-feed cameras for tele-operation and integrated an HMI (Human-Machine Interface) for real-time vehicle feedback.
+-	Incorporated a joystick-based remote control and live-feed cameras for tele-operation and integrated an HMI display for real-time vehicle feedback.
 -	Designed the hardware mounts and constructed a rig to support all the hardware components using SolidWorks.
 
 - Link - [Fulton-Forge, Remote-Control of an Off-Road Automated Vehicle over the 5G-Network for Agriculture Applications.](https://forge.engineering.asu.edu/participant/menon-rohit/)
@@ -482,12 +495,12 @@
 ## PATENTS.
 
 - Title: 'An Electromechanical Heart'
-- Field: Medical Device (Class – D) Prosthetic Device for a Total Artificial Implantable Heart
-- Patent Application Filed On: 06/01/2017.
-- Publication Date: 13/07/2018
+- Field: Class III Medical Device (Electromechanical Total Artificial Heart)
+- Patent Application Filed On: 01/06/2017.
+- Publication Date: 07/13/2018
 - Publication in: Indian Patent Journal
+- Patent Granted On: 08/23/2024.
 - Application Number: 201741000649A
-- Current Status: Awaiting Complete Patent Grant (Patent Pending)
 
 - [Publication](https://drive.google.com/file/d/15y16eBS3l7jWYZxEwInqt_8ONLUiCwWe/view?usp=drive_link)
 
