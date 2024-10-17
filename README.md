@@ -518,5 +518,20 @@
 - Kannada
 - Malayalam
 - Tamil
+  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## HOBBIES.
+
+- I have a diverse range of interests that enrich my personal and professional life:
+
+- Cricket, Soccer, and Badminton: Passionate about team sports, I enjoy the camaraderie and strategic thinking involved in cricket, soccer, and badminton. Playing these sports helps me stay active and foster teamwork skills.
+- Table Tennis and Billiards/Pools: I relish the challenge and precision required in table tennis and billiards. These games sharpen my focus and reflexes while providing a fun way to unwind.
+- Board Games: I love engaging in strategic board games that stimulate my problem-solving abilities and foster social connections with friends and family.
+- Cooking: I consider cooking an art, where I can express my creativity through different cuisines. It's not only a passion but also a wonderful stress relief that allows me to share delicious meals with others.
+- Sketching, Drawing, and Painting: I enjoy sketching, drawing, and painting, as they provide a creative outlet that allows me to express my thoughts and emotions visually.
+- Playing Guitar: Music is a significant part of my life, and I find joy in playing the guitar. It allows me to relax and express myself creatively.
+- Listening to Music: I have a diverse taste in music, which provides inspiration and motivation in my daily activities.
+- Swimming and Hiking: I appreciate the outdoors and enjoy swimming for fitness and relaxation. Hiking allows me to explore nature while providing a great workout.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
