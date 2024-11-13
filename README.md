@@ -18,7 +18,7 @@
 
 ## PROFESSIONAL BIO.
 
-- As an Autonomous Systems Aficionado with over 6 years of industry experience, I thrive on seamlessly integrating mechanical and robotic systems with cutting-edge hardware and software development, driving innovation in autonomous systems.
+- As an Autonomous Systems Aficionado with over 6 years of diverse industry experience spanning mechanical design, systems engineering, automation, embedded systems, controls, and manufacturing, I specialize in seamlessly integrating advanced robotic and mechanical systems with cutting-edge hardware and software. My expertise lies in designing and implementing complex, high-performance systems, driving innovation, and advancing the field of autonomous technologies. With a strong focus on AI, I am exploring its transformative potential to optimize system performance, enhance decision-making, and foster dynamic interaction within autonomous environments. I am passionate about pushing the boundaries of engineering to deliver impactful, real-world solutions that shape the future of autonomous systems.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -53,11 +53,12 @@
 
 - Key Achievements:
 
-- Engineered the Cognex vision system for the detection and sorting of products.
-- Engineered the FANUC DR-3iB/8L Delta Robot for high-speed pick and place operations and the FANUC M-410iB/700 Palletizing Robot for heavy￾duty material handling.
-- Troubleshot and resolved issues in mechanical and electrical components, including PLCs, which reduced downtime by 16%.
-- Started shifts by configuring and enabling various production and packaging machines, ensuring correct setup through the (HMI) for the product and target quantity.
-- Conducted hourly quality checks, managed necessary documentation, and executed the Clean-in-Place (CIP) process weekly to uphold safety and cleanliness standards.
+- Integrated Cognex vision system (L-38) with FANUC Delta Robot (DR-3iB/8L) for high-speed pick-and-place operations and FANUC Palletizing Robot (M-410iB/700) for heavy-duty material handling.
+- Programmed Siemens S7-1200 and Allen-Bradley ControlLogix PLCs for automating production and packaging systems, improving overall process efficiency.
+- Configured Siemens SIMATIC HMI Comfort Panels and Allen-Bradley PanelView Plus HMIs to streamline machine operations, setup processes, and user interaction.
+- Troubleshot and resolved mechanical and electrical issues, reducing equipment downtime by 16% and ensuring continuous production.
+- Performed quality checks and executed Clean-in-Place (CIP) processes to maintain safety and cleanliness in production environments.
+
 
 - Job Position: Graduate Service Assistant - Lab Assistant/Grader with a focus on two courses (Robotic System - 1 and Mechatronic Systems)  
 - Company: Ira A. Fulton Schools of Engineering at Arizona State University
@@ -67,32 +68,41 @@
 
 - Key Achievements:
 
-- As a Graduate Service Assistant (GSA), I collaborated closely with two prominent academics in robotics and autonomous systems. These collaborations occurred within their respective roles: one as the Program 
-  Chair of Robotics and Autonomous Systems, later Associate Director and Professor, and the other as Associate Dean and President's Professor. My responsibilities included teaching and mentoring 115 students in 
-  two courses, "Robotics Systems - 1" and "Mechatronic Systems". The curriculum I delivered covered essential Python programming and Robotics Operating System (ROS), along with simulation tools like RoboDK and 
-  Polyscope.
+- As a Graduate Service Assistant (GSA) at Arizona State University, I worked closely with Dr. Sangram Redkar in the Robotics and Dynamical Systems Laboratory and Dr. Thomas Sugar and Professor Jerry Gintz in 
+  the Industrial Automation and Robotic Systems Laboratory. I contributed to both teaching and research, playing a vital role in advancing educational initiatives while supporting cutting-edge research in 
+  robotics and autonomous systems.
 
-- My work was instrumental in designing and implementing two key projects aimed at enhancing hands-on learning in robotics. The first project involved integrating artificial intelligence with a 6-DOF MYCOBOT 
-  (280) from Elephant Robotics, focusing on calibration and manipulation, forwars kinematics and inverse kinematics, color recognition, and YOLO object detection. I created a Python-based controller for the 
-  robot, enabling it to play and autonomously reset tic-tac-toe games with participants. The second project involved advanced programming and system integration for collaborative robots (COBOTS) in manufacturing 
-  automation, utilizing the 6-DOF Universal Robots (UR3/e and UR5/CB-3) series. This project addressed robotic manipulation, spatial dynamics, precision, and conducted tests in navigation and repeatability, 
-  applied in tasks like palletizing and assembly.
+- Key Responsibilities & Contributions:
+- Innovative Teaching & Student Mentorship:
+- I taught and mentored over 200 students across two advanced courses: Robotics Systems - 1 and Mechatronic Systems. My curriculum focused on Python programming, Robotics Operating System (ROS), and the use of 
+  simulation tools such as RoboDK and Polyscope. By blending theory with hands-on projects, I helped students develop the skills needed to excel in the rapidly evolving field of robotics.
 
-- These projects contributed to improving student's understanding and skills in robotics. Additionally, I was responsible for curating the curriculum and managing a high-tech laboratory, ensuring students had 
-  access to current technology and educational resources.
+- Project Leadership & Advanced System Integration:
+  I spearheaded the design and implementation of several high-impact robotics projects:
 
-- Details of these activities and other contributions are documented in my GitHub Profile, Portfolio and YouTube Channel.
+- MYCOBOT 280 (6-DOF Collaborative Robot): I led the integration of artificial intelligence to develop a Python-based autonomous controller, enabling the robot to autonomously play and reset tic-tac-toe games. 
+  This project incorporated robot calibration, forward and inverse kinematics, color recognition, and YOLOv5 object detection, enhancing the robot's capabilities for interactive learning and real-world 
+  application.
 
-- Additionally, I played a key role in organizing and participating in an event at the Robotics Automation and Rapid Prototyping Lab, which focused on leveraging technology for industrial manufacturing 
-  automation. The highlight of the event was the simultaneous operation of 15 robotic arms, a spectacle that underscored the significance of advanced manufacturing technologies.
-  
-- This memorable showcase, known as the Manufacturing Automation Technology Open House, welcomed over 60 students from various fields and campuses, alongside a delightful robotic dog, making the event even more 
-  engaging.
-  
-- One of the standout moments was the opportunity to present our newest collection of robotic arms, which are ideally suited for a wide array of manufacturing tasks. Our team of graduate students also took great 
-  pleasure in instructing attendees on programming collaborative robots (cobots) for effective teamwork in the workspace.
-  
-- The Open House featured an impressive array of technologies, from CNC machines and a robotic arm specialized in welding, to five distinct types of robots - not to mention the presence of a robotic dog!
+- Universal Robots (UR3/e & UR5/CB-3) in Manufacturing Automation: I contributed to programming and system integration for collaborative robots (COBOTS), focusing on robotic manipulation, precision navigation, 
+  and spatial dynamics. These robots were used in tasks like palletizing, assembly, and repeatability testing, driving significant process improvements in manufacturing automation.
+
+- Curriculum Development & Lab Management:
+  I actively participated in curriculum development, creating hands-on project materials that aligned with the latest advancements in robotics. In parallel, I managed a state-of-the-art robotics laboratory, 
+  ensuring that students had access to cutting-edge hardware, software, and educational resources, thus fostering an environment of innovation and practical learning.
+
+- Event Organization & Outreach:
+  I worked closely with Professor Jerry Gintz to organize and participate in the Manufacturing Automation Technology Open House at the Industrial Automation and Robotic Systems Laboratory. This event showcased 
+  state-of-the-art industrial automation technologies and featured the simultaneous operation of 15 robotic arms, demonstrating the latest advancements in robotics and automation. The Open House attracted over 
+  115 students, faculty members, and families, offering them a hands-on opportunity to engage with real-world robotic systems and explore the future of manufacturing. The event also featured a robotic dog, - 
+  making it even more engaging and interactive.
+
+- The Open House highlighted technologies ranging from CNC machines and welding robots to five distinct types of robots, underscoring the vast potential of automation in modern industry. This event not only 
+  bridged the gap between academia and industry but also inspired students to pursue careers in robotics and manufacturing.
+
+- Documentation & Online Presence:
+- To expand the reach of our work, I documented key projects and educational content on GitHub, my portfolio, and YouTube. This provided students and professionals with valuable resources to enhance their 
+  understanding of robotics systems and automation technologies.
 
 - Robotics Automation and Rapid Prototyping Lab - Technology for Automation in Industrial Manufacturing.
 
@@ -110,7 +120,7 @@
 
 - GitHub - [Advanced Programming and System Integration of Collaborative Robots (COBOTS) in Manufacturing Automation using a 6-DOF Universal Robots (UR3/e and UR5/CB-3) Series](https://github.com/RohitMenon120192/Advanced-Robotic-Manipulation-and-Programming-of-an-Universal-Robot)
 
-- - Programming of an DOBOT Robots (Magician Cobot).
+- Programming of an DOBOT Robots (Magician Cobot).
 
 - YouTube - [Programming of an DOBOT Robots (Magician Cobot)](https://www.youtube.com/watch?v=6jzuxFe1-vU)
 
@@ -122,25 +132,28 @@
 
 - About the company:
 
-- About the company: A cutting-edge technology startup specializing in advanced 3D printing, rapid prototyping, and manufacturing solutions, XTPL leads the charge in revolutionizing India's industrial machinery    sector for both commercial and non-commercial applications.
+- Xdroid Prototyping Technologies LLP is a cutting-edge technology startup specializing in advanced 3D printing, rapid prototyping, and manufacturing solutions. The company leads innovation in India’s industrial 
+  machinery sector, driving breakthroughs across various industries.
 
 - Projects:
 
-- Developed custom FDM, SLA, SLS 3D printers.
-- Engineered Dual Nozzle 3D Printers for Educational Settings.
-- Designed a Specialized 3D Printer for Crafting Edible Chocolate Creations.
-- Developed Advanced 3D Printed Prosthetics for Knee Replacement Surgeries.
-- Engineered a Concept SpeedGate for the UAE Ministry.
-- Collaborated with the Indian Space Research Organization (ISRO) - Human Space Flight Centre (HSFC) Department on a Spectrum of Endeavors, alongside Various Other Innovative Projects.
+- Developed custom FDM, SLA, and SLS 3D printers.
+- Engineered dual-nozzle 3D printers for educational settings.
+- Designed a specialized 3D printer for edible chocolate creations.
+- Created advanced 3D-printed prosthetics for knee replacement surgeries.
+- Developed a Concept SpeedGate for the UAE Ministry.
+- Collaborated with Indian Space Research Organization (ISRO’s) Human Space Flight Centre on groundbreaking projects.
 
 - Key Achievements:
 
-- Spearheaded the development of innovative products and systems focusing on cutting-edge 3D printing and additive manufacturing technologies, including rapid prototyping and reverse engineering.
-- Designed and developed custom FDM, SLA, SLS 3D printers tailored to client specifications and integrated a PLC system into an industrial 3D printer.
-- Engineered a Concept SpeedGate for the UAE Ministry and Deveoped a Real-Time Thermal and Humidity Control System for the Indian Space Research Organization's Human Space Flight Centre.
-- Led the development of innovative dual nozzle 3D printers, including one specialized for edible chocolate production, delivering tangible value to clients.
-- Engineered a specialized 3D printer for knee replacement surgery, enabling hospitals to create custom knee holder prints for individual patients.
-- Ensured comprehensive documentation to uphold project integrity and foster transparency and collaboration within the engineering team.
+- Product Innovation: Spearheaded the development of advanced 3D printing systems using FDM, SLA, and SLS technologies, accelerating product development and reducing time-to-market for clients.
+- Custom Printer Solutions: Designed and engineered custom 3D printers, including a mid-sized FDM printer for manufacturing clients, integrating Siemens S7-1200 PLC and Mitsubishi GOT2000 HMI to optimize 
+  automation, performance, and efficiency.
+- Strategic Partnerships: Led the design of the Concept SpeedGate for the UAE Ministry and developed a real-time thermal and humidity control system for ISRO’s Human Space Flight Centre, ensuring precision in 
+  environmental monitoring.
+- Medical & Culinary Innovation: Created specialized 3D printers for knee replacement surgeries, enabling the production of custom knee holders, and developed a printer for creating edible chocolate, expanding 
+  the versatility of 3D printing applications.
+- Collaboration & Documentation: Coordinated closely with ISRO and other partners to ensure thorough documentation and fostered collaboration across multidisciplinary teams.
 
 - Job Position: Mechanical Engineer
 - Company: Flux Auto (Autonomous Vehicles)
@@ -150,7 +163,7 @@
 
 - About the company:
 
-- We're a pioneering startup in India, specializing in cutting-edge technology for autonomous driving solutions tailored for diverse environments. Our focus is primarily on commercial heavy vehicles, with our      platform engineered to excel in chaotic settings. Every aspect of our hardware and software is designed to democratize autonomous trucking.
+- Flux Auto is a pioneering Indian startup that specializes in autonomous driving solutions for commercial heavy vehicles, designed to excel in chaotic environments and democratize autonomous trucking.
 
 - Projects:
 
@@ -159,17 +172,18 @@
 
 - Key Achievements:
 
-- Designed and developed retrofit solutions in SolidWorks for vehicle controls (throttle, brakes, steering, transmission) and sensor housings (cameras, LIDAR, radar).
-- Conducted FEA, CFD, and Fatigue Analyses, achieving a 90% success rate, significantly contributing to the development of mechanical components for autonomous vehicles.
-- Carried out data analyses on Sensors, GPS & Mapping, Telematics Data, and performed Object & Event Detection.
-- Developed automatic actuation systems integrating BLDC motors, leading to a 98% in response time.
-- Engineered mechanisms meeting system requirements with simulations, ensuring a 95% compliance rate.
-- Supervised the design and production of waterproof casings, ensuring 100% compliance with IP67 standards.
-- Conducted calibration activities for cameras and sensors.
-- Conducted in-depth research to specify, design, install, and upkeep mechanical systems.
-- Conducted cost-saving analyses and proposed solutions, resulting in a reduction in procurement costs.
-- Engaged in collaborative troubleshooting with engineering teams, offering technical expertise and insights, demonstrating teamwork and communication skills.
-- Ensured meticulous documentation of all project aspects, including specifications, modifications, and performance data.
+- Vehicle Control & Sensor System Design: Engineered retrofit solutions in SolidWorks for vehicle control systems (throttle, brakes, steering, transmission) and sensor housings (cameras, LIDAR, radar), ensuring 
+  seamless integration and optimizing autonomous vehicle performance.
+- Advanced Simulations & Analysis: Led advanced FEA, CFD, and Fatigue Analyses, achieving a 90% success rate in simulations, and played a pivotal role in developing high-performance mechanical components for 
+  autonomous systems.
+- Sensor & Data Integration: Performed extensive data analysis on sensors, GPS/mapping, and telematics, driving significant improvements in object and event detection systems for enhanced autonomous vehicle 
+  navigation.
+- Actuation & Response Optimization: Designed and integrated BLDC motor-based automatic actuation systems, reducing response time by 98%, significantly improving system efficiency.
+- Compliance & Production Oversight: Engineered systems to meet design requirements with simulations, ensuring 95% compliance. Led the design and production of waterproof casings, ensuring 100% compliance with 
+  IP67 standards.
+- Collaboration & Troubleshooting: Worked closely with engineering teams, offering technical expertise and troubleshooting support to resolve complex issues, fostering a collaborative work environment.
+- Cost Optimization & Documentation: Conducted cost-saving analyses, recommending solutions that reduced procurement costs. Maintained thorough documentation of project specifications, modifications, and 
+  performance data.
 
 - Robotic Vision - Flux Auto - Self Driving Trucks.
 
@@ -191,7 +205,7 @@
 
 - About the company:
 
-- An established organization located in the heart of Bengaluru, specializing in both private and government contracts related to construction and infrastructure projects.
+- Ramkrishy Infrastructure specializes in both private and government contracts related to construction and infrastructure projects, delivering high-quality solutions across various sectors.
 
 - Projects:
  
@@ -199,14 +213,12 @@
 
 - Key Achievements:
 
-- Utilized 2D and 3D CAD/CAM software to assist in creating designs based on project plans, gaining valuable experience in visual representation and detailed modeling of plant.
-- Assisted in project planning meetings to coordinate mechanical system designs with architectural and structural teams, contributing to conflict resolution and alignment of delivery schedules. 
-- Supported senior engineers in identifying deficiencies in mechanical processes, contributing ideas for improvement strategies.
-- Assisted in conducting assessments of damage and damage tolerance for innovative composite material systems under supervision. 
-- Contributed to modifying and refining designs to meet specifications and rectify malfunctions under guidance.
-- Supported senior engineers in supervising the design and layout of piping systems in water/wastewater treatment facilities, water distribution networks, and sewage systems.
-- Assisted in the interpretation of engineering blueprints and contributed to ensuring the efficient operation of water treatment plants and distribution systems.
-- Aided in compiling equipment inventories for projects and supported in overseeing the procurement process of specialized tools, engines, and machinery.
+- Design & Coordination: Utilized advanced 2D and 3D CAD/CAM software to design precise, efficient plant layouts, optimizing functionality and space. Led coordination efforts for mechanical system designs during planning meetings, resolving conflicts and aligning delivery schedules.
+- Process Improvement: Identified deficiencies in mechanical systems, proposing actionable improvements that enhanced system performance and operational efficiency.
+- Support & Modifications: Assisted senior engineers in conducting damage assessments, providing design modifications to meet specifications and rectify malfunctions.
+- Water Treatment System Design: Supported the design and layout of piping systems for water/wastewater treatment facilities, contributing to efficient and reliable water management.
+- Blueprint Interpretation & Procurement: Assisted in interpreting engineering blueprints and ensuring smooth operations of water treatment systems. Contributed to equipment inventory management and supported 
+  procurement processes for specialized machinery and tools.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -225,7 +237,7 @@
 
 ## Libraries & Simulations: 
 <p float="left">
-- CARLA, Gazebo, Isaac Sim, NumPy, Omniverse, OpenCV, PyTorch, Scikit-learn, TensorFlow.
+- CARLA, Gazebo, Isaac Sim, Matplotlib, NumPy, Omniverse, OpenCV, Pandas, PyTorch, Scikit-learn, TensorFlow.
 </p>
 
 ## Tools & Technologies: 
@@ -395,10 +407,11 @@
 
 - Research Project Topic: Autonomous Multi-Agent Blimp Swarm for Coordinated Aerial Object Retrieval.
 
-- Designing and building a fleet of autonomous blimps capable of independent airspace navigation and communication with other blimps for swarming behavior to locate, collect, and guide helium-filled balloons through a designated goal post.
-- Implementing advanced object detection algorithms for precise tracking, collision avoidance, and autonomous balloon capture using custom nets integrated into the blimps.
-- Leveraging Python, OpenCV, and SLAM techniques to enable coordinated navigation, multi-agent communication, and efficient task execution.
-- Integrating brushless motors, ESCs, Raspberry Pi, sensors, and camera systems for fully autonomous operation in real-time balloon collection.
+- Spearheading the design and development of a fleet of autonomous blimps, enabling independent navigation and communication for swarming behavior to locate, capture, and guide helium-filled balloons through a 
+  designated goal post.
+- Implementing cutting-edge object detection algorithms to ensure precise tracking, real-time collision avoidance, and autonomous balloon capture using custom-integrated nets.
+- Utilizing advanced Python, OpenCV, and SLAM techniques to achieve seamless multi-agent coordination, precise navigation, and efficient task execution across the blimp swarm.
+- Integrating high-performance brushless motors, ESCs, Raspberry Pi, sensors, and camera systems to enable fully autonomous operation and real-time balloon retrieval in dynamic environments.
   
 - Job Position: Researcher (Volunteer)
 - Company: Ira A. Fulton Schools of Engineering at Arizona State University
@@ -406,16 +419,17 @@
 - Type of Work: On–site
 - Employment Duration: May 2024 - Present
 
-- Robotics and Autonomous Systems Laboratory
+- Robotics and Dynamical Systems Laboratory
 - Prof: Dr. Sangram Redkar - Associate Director and Professor
 
 - Research Project Topic: Development of a Real-Time Digital Twin for Glove Compartment Automation.
   
-- Integrating ZED 2i stereoscopic cameras and Livox MID-70 LiDAR for advanced sensor fusion to accurately detect and track transparent objects with two UR5 robots performing complex manipulation tasks.
-- Utilizing custom in-house multimodal large language models (LLMs) for conformal coordinate prediction and enhanced decision-making, particularly in handling transparent objects.
-- Employing ROS, Gazebo, RViz with MoveIt, NVIDIA Omniverse, Isaac Sim, and Python scripting for the real-time development and simulation of the digital twin.
-- Utilizing an NVIDIA Jetson Nano for efficient real-time data processing.
-  
+- Led the integration of ZED 2i stereoscopic cameras and Livox MID-70 LiDAR for advanced sensor fusion, enabling precise detection and tracking of transparent objects during complex manipulation tasks performed 
+  by two UR5 robots.
+- Developed and simulated the real-time digital twin using ROS, Gazebo, RViz with MoveIt, NVIDIA Omniverse, Isaac Sim, and Python scripting, optimizing system performance and accuracy for glove compartment 
+  automation.
+- Engineered the use of an NVIDIA Jetson Nano for real-time data processing, significantly enhancing system responsiveness and autonomy.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## APPLIED PROJECTS.
@@ -426,17 +440,33 @@
 - Type of Work: On–site
 - Employment Duration: January 2024 - May 2024
 
+- Master’s Opportunity for Research in Engineering (MORE)
+
 - Dynamic Systems and Control Laboratory
-- Advisor and Prof: Dr. Yan Chen - Assistant Professor
+- Advisor: Dr. Yan Chen, Assistant Professor
 
-- Applied Project Title: Remote-Control of an Off-Road Automated Vehicle over the 5G-Network for Agriculture Applications.
+- Applied Project Title: Remote-Control of an Off-Road Automated Vehicle over the 5G Network for Agricultural Applications
 
-- Funded by the ASU Master’s Opportunity for Research in Engineering (MORE) Program and nominated for the Best Research Award, this project ranked among the top 5 out of 140 projects in Spring 2024. It was also 
-  featured on the Fulton Forge Student Research Expo website and catalog.
-- Developed a robust control system for an automated off-road vehicle (Jeep Grand Cherokee) powered by 5G technology. This involves utilizing Matlab/Simulink/ROS for system integration, interfacing the vehicle’s 
-  control units and sensors with New Eagle’s drive-by-wire system, dSPACE MicroAutoBox II, and Swift Navigation GNSS GPS500 via CAN Bus, and incorporating an HMI display for real-time monitoring and interaction.
--	Incorporated a joystick-based remote control and live-feed cameras for tele-operation and integrated an HMI display for real-time vehicle feedback.
--	Designed the hardware mounts and constructed a rig to support all the hardware components using SolidWorks.
+- Project Overview:
+
+- Selected for the prestigious ASU Master's Opportunity for Research in Engineering (MORE) program, this project focused on the remote control of off-road automated vehicles using the advanced capabilities of 5G 
+  technology for agricultural applications. The aim was to leverage cutting-edge communication systems to enhance off-road navigation and control in dynamic, real-world environments.
+
+- Achievements & Recognition:
+
+- Funding & Recognition: Funded by the ASU MORE program and nominated for the Best Research Award.
+- Awards: Ranked in the top 5 out of 140 projects in Spring 2024 and showcased on the Fulton Forge Student Research Expo website and catalog.
+
+- Key Technical Contributions:
+
+- 5G-Powered Vehicle Control System: Developed a robust control system for an off-road Jeep Grand Cherokee vehicle, utilizing MATLAB/Simulink/ROS for seamless system integration. The system interfaced with New 
+  Eagle’s drive-by-wire system, dSPACE MicroAutoBox II, and Swift Navigation GNSS GPS500 via CAN Bus, enabling precise vehicle control and real-time monitoring.
+- Tele-Operation & Real-Time Feedback: Integrated joystick-based remote control for tele-operation and used live-feed cameras for situational awareness. The system included an HMI display for real-time vehicle 
+  feedback, enhancing control in agricultural environments.
+- Hardware Design & Integration: Engineered custom mounts and designed a support rig for all hardware components using SolidWorks, ensuring secure and optimized integration for both autonomous and remote- 
+  controlled systems.
+
+- This project demonstrates innovative integration of teleoperation, cutting-edge 5G communication, and off-road vehicle automation to advance agricultural technology.
 
 - Link - [Fulton-Forge, Remote-Control of an Off-Road Automated Vehicle over the 5G-Network for Agriculture Applications.](https://forge.engineering.asu.edu/participant/menon-rohit/)
 
@@ -447,47 +477,47 @@
 ## ACADEMIC PROJECTS.
 
 - Driver Monitoring System for Embedded Devices
-- Enhanced driver safety by detecting and responding to signs of fatigue or distraction using real-time video analysis.
+- Developed a real-time video analysis system to detect and respond to driver fatigue and distraction, significantly enhancing road safety.
 
 - YouTube - [Driver Monitoring System](https://www.youtube.com/watch?v=vjYG8DtV0jg)
 
 - GitHub - [Driver Monitoring System](https://github.com/RohitMenon120192/Driver_Monitoring_System)
 
 - Word Recognition using Machine Learning on Arduino.
-- Implemented a compact, efficient voice recognition system for triggering actions based on specific spoken words, applicable in embedded systems.
+- Implemented a compact, efficient voice recognition system for embedded devices, enabling precise action triggers based on spoken commands.
 
 - YouTube - [Word Recognition using Machine Learning on Arduino](https://www.youtube.com/watch?v=0_Cdz9fnFi4)
 
 - GitHub - [Word Recognition using Machine Learning on Arduino](https://github.com/RohitMenon120192/Word-Recognition-using-Machine-Learning-on-Arduino)
 
 - Posture Detection using Embedded Machine Learning.
-- Monitored and analyzed sleeping postures in real-time, providing data to improve sleep quality and health through advanced posture detection.
+- Designed an embedded system to monitor and analyze sleeping postures, providing actionable data to improve sleep quality and health. 
 
 - YouTube - [Posture Detection using Embedded Machine Learning](https://www.youtube.com/watch?v=ojKLB7J1U3k)
 
 - GitHub - [Posture Detection using Embedded Machine Learning](https://github.com/RohitMenon120192/Posture-Detection-using-Embedded-Machine-Learning)
 
-- Automated Sorting System with PLC and Cobot Integration.
-- Automated sorting in manufacturing by integrating PLCs and cobots, improving efficiency and accuracy in operations.
+- Automated Sorting System with PLC and Robot Manipulator Integration
+- Led the automation of manufacturing sorting processes by integrating PLCs and collaborative robots, optimizing efficiency and accuracy in high-volume operations.
 
 - YouTube - [Automated Sorting System with PLC and Cobot Integration](https://www.youtube.com/shorts/VAe2jkmHeoY) 
 
 - GitHub -
 
 - Learning-Based Adaptive Control using Reinforcement Learning with Model Predictive Control.
-- Developed a responsive vehicle control system that enhances handling and stability by learning and adapting to various driving conditions.
+- Developed a dynamic vehicle control system using reinforcement learning and model predictive control, improving handling and stability in variable driving conditions.
 
 - GitHub - [Learning Based Adaptive MPC for a four–wheel vehicle applying Reinforcement Learning](https://github.com/RohitMenon120192/Learning-Based-Adaptive-MPC-for-a-four-wheel-vehicle-applying-Reinforcement-Learning)
 
 - Advanced Control and Navigation of Parrot Mambo Mini Drone.
-- Improved drone autonomy, enabling complex maneuvers and tasks using enhanced control algorithms and computer vision.
+- Advanced the autonomy of the Parrot Mambo Mini Drone, enabling complex maneuvers through sophisticated control algorithms and computer vision techniques.
 
 - YouTube - [Advanced Control and Navigation of Parrot Mambo Mini Drone](https://www.youtube.com/watch?v=4SRDtLpXJ7o)
 
 - GitHub - [Advanced Control and Navigation of Parrot Mambo Mini Drone](https://github.com/RohitMenon120192/Advanced-Control-and-Navigation-of-Parrot-Mambo-Mini-Drone)
 
 - Ultrasonic Radar.
-- Designed a cost-effective system for detecting and mapping objects within a 360-degree range.
+- Engineered a cost-effective ultrasonic radar system for real-time object detection and mapping in a full 360-degree range.
 
 - YouTube - [Ultrasonic Radar](https://www.youtube.com/watch?v=5SPq0QYEfzU)
 
@@ -501,14 +531,14 @@
 - GitHub - [Vertical Drawing Robot](https://github.com/RohitMenon120192/Vertical-Drawing-Bot)
 
 - Webcam Controlled Rover.
-- Developed an autonomous rover capable of navigating and manipulating objects using real-time visual input from a webcam.
+- Developed an autonomous rover system that can navigate and manipulate objects in real-time using visual input from a webcam.
 
 - YouTube - [Webcam Controlled Rover](https://www.youtube.com/watch?v=cCVUTY2_NfM)
 
 - GitHub - [Webcam Controlled Rover](https://github.com/RohitMenon120192/Webcam-Controlled-Rover)
 
 - Self Balancing Motorcycle.
-- Designed a self-balancing motorcycle that maintains stability and performs controlled maneuvers, demonstrating principles of dynamic balance in two-wheeled vehicles.
+- Engineered a self-balancing motorcycle, applying principles of dynamic balance to maintain stability and perform controlled maneuvers on two wheels.
 
 - YouTube - [Self–Balancing Motorcycle](https://www.youtube.com/watch?v=PT3bBPZd–Gk)
 
