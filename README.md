@@ -225,25 +225,17 @@
 ## TECHNICAL SKILLS.
 
 ## Engineering Design & Manufacturing: 
-
-<p float="left">
- - Ansys, AutoCAD, Autodesk Fusion 360, Blender3D, CATIA, Computational Fluid Dynamics (CFD), Creo, Factory Acceptance Testing (FAT), Factory Layout Design, Finite Element Analysis (FEA), Geometric Dimensioning & Tolerancing (GD&T), Process Failure Modes and Effects Analysis (PFMEA), Programmable Logic Controller (PLC), Solidworks.
-</p>
+- Ansys, AutoCAD, Autodesk Fusion 360, Blender3D, CATIA, Computational Fluid Dynamics (CFD), Creo, Factory Acceptance Testing (FAT), Factory Layout Design, Finite Element Analysis (FEA), Geometric Dimensioning & 
+  Tolerancing (GD&T), Process Failure Modes and Effects Analysis (PFMEA), Programmable Logic Controller (PLC), Solidworks.
 
 ## Programming Languages & Frameworks:
-<p float="left">
 - C, C++, Docker, Embedded C, Linux, Matlab & Simulink, Python, ROS, ROS2.
-</p>
 
 ## Libraries & Simulations: 
-<p float="left">
 - CARLA, Gazebo, Isaac Sim, Matplotlib, NumPy, Omniverse, OpenCV, Pandas, PyTorch, Scikit-learn, TensorFlow.
-</p>
 
 ## Tools & Technologies: 
-<p float="left">
 - Arduino, ARM Cortex-A, Automation Studio, Autoware, BeagleBone, Controller Area Network (CAN) Communication, Raspberry Pi, Unreal Engine, Vehicle Integration.
-</p>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
