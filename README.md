@@ -53,12 +53,10 @@
 
 - Key Achievements:
 
-- Integrated Cognex vision system (L-38) with FANUC Delta Robot (DR-3iB/8L) for high-speed pick-and-place operations and FANUC Palletizing Robot (M-410iB/700) for heavy-duty material handling.
-- Programmed Siemens S7-1200 and Allen-Bradley ControlLogix PLCs for automating production and packaging systems, improving overall process efficiency.
-- Configured Siemens SIMATIC HMI Comfort Panels and Allen-Bradley PanelView Plus HMIs to streamline machine operations, setup processes, and user interaction.
-- Troubleshot and resolved mechanical and electrical issues, reducing equipment downtime by 16% and ensuring continuous production.
+- Integrated Cognex Vision System with FANUC Delta Robot for high-speed pick-and-place operations and FANUC Palletizing Robot for heavy-duty material handling.
+- Programmed Allen-Bradley ControlLogix PLCs and configured PanelView Plus HMIs to automate production and packaging systems, enhancing process efficiency and streamlining machine operations.
+- Diagnosed and resolved mechanical and electrical issues, achieving a 16% reduction in equipment downtime, resulting in an annual cost savings of $96,000.
 - Performed quality checks and executed Clean-in-Place (CIP) processes to maintain safety and cleanliness in production environments.
-
 
 - Job Position: Graduate Service Assistant - Lab Assistant/Grader with a focus on two courses (Robotic System - 1 and Mechatronic Systems)  
 - Company: Ira A. Fulton Schools of Engineering at Arizona State University
