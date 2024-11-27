@@ -290,7 +290,7 @@
            		
 ## TECHNICAL CERTIFICATIONS.
 
-- [Trinity Workplace Training and Safety Programs]
+- [Trinity Workplace Training and Safety Programs](https://drive.google.com/drive/folders/1bZcV876wscCfI6i2hnpJ9fcq09oy9_GR?usp=drive_link)
 
 - [Master's Opportunity for Research in Engineering (MORE) Program](https://drive.google.com/file/d/1tfg1i4zLVSD6zZ6bK-_7ObPTP9G9hQKW/view?usp=drive_link)
 
