@@ -187,6 +187,8 @@
 - Cost Optimization & Documentation: Conducted cost-saving analyses, recommending solutions that reduced procurement costs. Maintained thorough documentation of project specifications, modifications, and 
   performance data.
 
+- Medium - [David Silver/Udacity Inc Review](https://medium.com/udacity/experience-self-driving-trucks-in-india-with-flux-auto-b1faaeba0089)  
+
 - Robotic Vision - Flux Auto - Self Driving Trucks.
 
 - YouTube - [Robotic Vision - Flux Auto - Self Driving Trucks](https://www.youtube.com/watch?v=MjFrbcXPQ5g)
