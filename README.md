@@ -47,16 +47,20 @@
 
 - About the company:
 
-- Trinity Frozen Foods is an emerging player in the food processing industry, specializing in premium frozen sweet potato fries, available in both organic and non-GMO varieties. The market for these high-end 
-  products was valued at $1.62 billion in 2024 and is projected to expand to $2.65 billion within the next decade. This anticipated growth underscores the increasing consumer demand for diverse and healthier 
-  snack alternatives.
+- Trinity Frozen Foods specializes in gluten-free frozen sweet potato products, serving food distributors, restaurants, and grocery stores. Founded in 2012 in North Carolina, the company prioritizes quality, sustainability, and local sourcing. With estimated revenues of $8.6–$10 million and $17 million in funding, Trinity is steadily growing. Its focus on innovation and the increasing demand for healthy foods positions the company for long-term success.
 
 - Key Achievements:
 
-- Integrated Cognex Vision System with FANUC Delta Robot for high-speed pick-and-place operations and FANUC Palletizing Robot for heavy-duty material handling.
-- Programmed Allen-Bradley ControlLogix PLCs and configured PanelView Plus HMIs to automate production and packaging systems, enhancing process efficiency and streamlining machine operations.
-- Diagnosed and resolved mechanical and electrical issues, achieving a 16% reduction in equipment downtime, resulting in an annual cost savings of $96,000.
-- Performed quality checks and executed Clean-in-Place (CIP) processes to maintain safety and cleanliness in production environments.
+- Configured and optimized production machines via HMIs to meet daily specifications and goals.
+- Diagnosed and resolved mechanical/electrical issues, reducing downtime by 16% and saving $96,000 annually.
+- Designed and implemented an automated defect detection system with Cognex vision, FANUC robots, and Allen-Bradley PLCs, achieving 98% defect detection accuracy and 99% robotic success rate.
+- Programmed and optimized FANUC M-410iB/700 robots for high-speed palletizing, enhancing throughput and reliability.
+- Conducted hourly quality checks, adjusting HMI settings to maintain consistency and standards.
+- Established preventive and predictive maintenance schedules, performing CIP processes to ensure machine reliability and hygiene.
+- Utilized tools like multimeters and oscilloscopes to diagnose and resolve failures, minimizing disruptions.
+- Developed automation systems integrating robotics, vision, and conveyor tracking, improving quality control and reducing labor.
+- Documented troubleshooting processes and trained maintenance staff, fostering proactive equipment management.
+- Adapted to demanding 13–15 hour rotating shifts, showcasing strong time management and adaptability.
 
 - Job Position: Graduate Service Assistant - Lab Assistant/Grader with a focus on two courses (Robotic System - 1 and Mechatronic Systems)  
 - Company: Ira A. Fulton Schools of Engineering at Arizona State University
