@@ -47,18 +47,21 @@
 
 - About the company:
 
-- Trinity Frozen Foods specializes in gluten-free frozen sweet potato products, serving food distributors, restaurants, and grocery stores. Founded in 2012 in North Carolina, the company prioritizes quality, sustainability, and local sourcing. With estimated revenues of $8.6–$10 million and $17 million in funding, Trinity is steadily growing. Its focus on innovation and the increasing demand for healthy foods positions the company for long-term success.
+- Trinity Frozen Foods specializes in gluten-free frozen sweet potato products, catering to food distributors, restaurants, and grocery stores. Founded in 2012 in North Carolina, the company emphasizes quality, 
+  sustainability, and local sourcing. With estimated revenues of $8.6–$10 million and $17 million in funding, Trinity is poised for long-term success, driven by innovation and the growing demand for healthy 
+  foods.
 
 - Key Achievements:
 
-- Configured and optimized production machines via HMIs to meet daily specifications and goals.
+- Designed and implemented a robotic automation system for defect detection and removal using Cognex In-Sight L38 vision system, FANUC DR-3iB/8L robotic manipulator, Allen-Bradley CompactLogix 5380 PLC, AquaGard 
+  7350 V2 conveyor system, Schmalz suction gripper end-effector, and Schmalz SCPSi ejector, achieving 98% defect detection accuracy and 99% robotic success rate.
 - Diagnosed and resolved mechanical/electrical issues, reducing downtime by 16% and saving $96,000 annually.
-- Designed and implemented an automated defect detection system with Cognex vision, FANUC robots, and Allen-Bradley PLCs, achieving 98% defect detection accuracy and 99% robotic success rate.
 - Programmed and optimized FANUC M-410iB/700 robots for high-speed palletizing, enhancing throughput and reliability.
+- Configured and optimized production machines via HMIs to meet daily specifications and goals.
 - Conducted hourly quality checks, adjusting HMI settings to maintain consistency and standards.
-- Established preventive and predictive maintenance schedules, performing CIP processes to ensure machine reliability and hygiene.
+- Performed root cause analysis and established preventive and predictive maintenance schedules, including CIP processes to ensure machine reliability and hygiene.
 - Utilized tools like multimeters and oscilloscopes to diagnose and resolve failures, minimizing disruptions.
-- Developed automation systems integrating robotics, vision, and conveyor tracking, improving quality control and reducing labor.
+- Developed automation systems integrating robotics, vision, and conveyor tracking, improving quality control and reducing labor costs.
 - Documented troubleshooting processes and trained maintenance staff, fostering proactive equipment management.
 - Adapted to demanding 13–15 hour rotating shifts, showcasing strong time management and adaptability.
 
