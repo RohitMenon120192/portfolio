@@ -53,8 +53,8 @@
 
 - Key Achievements:
 
-- Designed and implemented a robotic automation system for defect detection and removal using Cognex In-Sight L38 vision system, FANUC DR-3iB/8L robotic manipulator, Allen-Bradley CompactLogix 5380 PLC, AquaGard 
-  7350 V2 conveyor system, Schmalz suction gripper end-effector, and Schmalz SCPSi ejector, achieving 98% defect detection accuracy and 99% robotic success rate.
+- Engineered a robotic automation system for defect detection and removal using Cognex vision system, FANUC delta robot, and Allen-Bradley PLC, achieving 98% detection accuracy and 99% robotic success rate.
+- Enhanced OEE through root cause analysis using the DMAIC framework and 5 Whys, along with preventive and predictive maintenance.
 - Diagnosed and resolved mechanical/electrical issues, reducing downtime by 16% and saving $96,000 annually.
 - Programmed and optimized FANUC M-410iB/700 robots for high-speed palletizing, enhancing throughput and reliability.
 - Configured and optimized production machines via HMIs to meet daily specifications and goals.
