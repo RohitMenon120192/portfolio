@@ -1,5 +1,6 @@
 ## PORTFOLIO
 
+## Embodied AI Engineer
 ## Autonomous Systems Aficionado
 ## Patent Holder for a Class III Medical Device (Electromechanical - Total Artificial Implantable Heart)
 ## MORE Grant Recipient
@@ -53,9 +54,10 @@
 
 - Key Achievements:
 
-- Engineered a robotic automation system for defect detection and removal using Cognex vision system, FANUC delta robot, and Allen-Bradley PLC, achieving 98% detection accuracy and 99% robotic success rate.
-- Enhanced OEE through root cause analysis using the DMAIC framework and 5 Whys, along with preventive and predictive maintenance.
-- Diagnosed and resolved mechanical/electrical issues, reducing downtime by 16% and saving $96,000 annually.
+- Engineered a robotic automation system for defect detection and removal using Cognex vision system, FANUC delta robot, and Allen-Bradley PLC, achieving 98% detection accuracy and 99% robotic success rate, 
+  incorporating PID control for precise motion accuracy and VFD-driven conveyor speed optimization. 
+- Enhanced OEE through root cause analysis using the DMAIC framework and 5 Whys, along with preventive and predictive maintenance. 
+- Diagnosed and resolved mechanical/electrical issues, reducing downtime by 16% and saving $96,000 annually. 
 - Programmed and optimized FANUC M-410iB/700 robots for high-speed palletizing, enhancing throughput and reliability.
 - Configured and optimized production machines via HMIs to meet daily specifications and goals.
 - Conducted hourly quality checks, adjusting HMI settings to maintain consistency and standards.
@@ -232,19 +234,23 @@
 ## TECHNICAL SKILLS.
 
 ## Engineering Design & Manufacturing: 
-- Ansys, AutoCAD, Autodesk Fusion 360, Blender3D, CATIA, Computational Fluid Dynamics (CFD), Creo, Factory Layout Design, Finite Element Analysis (FEA), Geometric Dimensioning & Tolerancing (GD&T), Programmable Logic Controller (PLC), Solidworks. 
+- Ansys, AutoCAD, Autodesk Fusion 360, Blender3D, CATIA, Computational Fluid Dynamics (CFD), Creo, Finite Element Analysis (FEA), Geometric Dimensioning & Tolerancing (GD&T), Solidworks. 
+
+## Automation & Control Systems: 
+- Human-Machine Interface (HMI) & SCADA Development, Programmable Logic Controllers (PLC), Variable Frequency Drives (VFD), Proportional-Integral-Derivative (PID) Control, Motion Control, Industrial Networking 
+  (Ethernet/IP, Modbus, Profibus), Robotics Integration. 
 
 ## Production Optimization & Maintenance:
-- Overall Equipment Effectiveness (OEE), Root Cause Analysis (5 Whys, DMAIC), Preventive Maintenance, Predictive Maintenance. 
-
+- Overall Equipment Effectiveness (OEE), Root Cause Analysis (5 Whys, DMAIC), Preventive Maintenance, Predictive Maintenance.
+  
 ## Programming Languages & Frameworks:
-- C, C++, Docker, Embedded C, Linux, Matlab & Simulink, Python, ROS, ROS2. 
-
+- C, C++, Docker, Embedded C, Linux, Matlab & Simulink, Python, ROS, ROS2.
+  
 ## Libraries & Simulations: 
--  CARLA, Gazebo, Isaac Sim, Matplotlib, NumPy, Omniverse, OpenCV, Pandas, PyTorch, RoboGuide, Scikit-learn, TensorFlow. 
+-  Gazebo, Isaac Sim, Matplotlib, NumPy, Omniverse, OpenCV, Pandas, PyTorch, RoboGuide, Scikit-learn, TensorFlow. 
 
 ## Tools & Technologies: 
-- Arduino, ARM Cortex-A, Automation Studio, Autoware, BeagleBone, Controller Area Network (CAN) Communication, Raspberry Pi, Studio 5000 Logix Designer, Unreal Engine, Vehicle Integration. 
+- Arduino, ARM Cortex-A, Automation Studio, BeagleBone, Controller Area Network (CAN) Communication, Raspberry Pi, Studio 5000 Logix Designer, Unreal Engine. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -408,11 +414,11 @@
 
 - Research Project Topic: Autonomous Multi-Agent Blimp Swarm for Coordinated Aerial Object Retrieval.
 
-- Spearheading the design and development of a fleet of autonomous blimps, enabling independent navigation and communication for swarming behavior to locate, capture, and guide helium-filled balloons through a 
-  designated goal post.
-- Implementing cutting-edge object detection algorithms to ensure precise tracking, real-time collision avoidance, and autonomous balloon capture using custom-integrated nets.
-- Utilizing advanced Python, OpenCV, and SLAM techniques to achieve seamless multi-agent coordination, precise navigation, and efficient task execution across the blimp swarm.
-- Integrating high-performance brushless motors, ESCs, Raspberry Pi, sensors, and camera systems to enable fully autonomous operation and real-time balloon retrieval in dynamic environments.
+- Designed and developed a fleet of autonomous blimps for aerial object retrieval using swarm coordination algorithms and custom CAD models in SolidWorks. 
+- Integrated YOLOv8 for real-time balloon detection and localization, enabling autonomous capture using onboard net mechanisms. 
+- Utilized OpenCV for image preprocessing, post-detection tracking, and collision avoidance to support precise object interaction. 
+- Implemented SLAM in ROS for accurate navigation, mapping, and decentralized multi-agent coordination across dynamic environments. 
+- Integrated and programmed brushless motors, ESCs, Raspberry Pi, cameras, and sensors to enable fully autonomous operation and real-time swarm communication. 
   
 - Job Position: Researcher (Volunteer)
 - Company: Ira A. Fulton Schools of Engineering at Arizona State University
